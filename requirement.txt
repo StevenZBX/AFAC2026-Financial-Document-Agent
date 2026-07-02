@@ -1,0 +1,14 @@
+pythonn=3.10
+
+conda --version
+
+conda create --name Name python=3.10
+
+conda activate Name
+
+pip install dashscope
+
+
+git --version
+
+git clone ....
