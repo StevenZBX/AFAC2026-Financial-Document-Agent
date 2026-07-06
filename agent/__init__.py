@@ -1,2 +1,1 @@
-from qwen_api import *
-from qa_qwen import *
+from .qa_qwen import QAAgent
