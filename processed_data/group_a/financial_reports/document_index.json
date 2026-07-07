@@ -1,0 +1,92 @@
+{
+  "annual_byd_2024_report": {
+    "doc_id": "annual_byd_2024_report",
+    "domain": "financial_reports",
+    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_byd_2024_report.PDF",
+    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_byd_2024_report.json",
+    "page_count": 290,
+    "char_count": 276599,
+    "source_type": "pdf"
+  },
+  "annual_byd_2025_report": {
+    "doc_id": "annual_byd_2025_report",
+    "domain": "financial_reports",
+    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_byd_2025_report.PDF",
+    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_byd_2025_report.json",
+    "page_count": 268,
+    "char_count": 249773,
+    "source_type": "pdf"
+  },
+  "annual_catl_2024_report": {
+    "doc_id": "annual_catl_2024_report",
+    "domain": "financial_reports",
+    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_catl_2024_report.PDF",
+    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_catl_2024_report.json",
+    "page_count": 229,
+    "char_count": 212715,
+    "source_type": "pdf"
+  },
+  "annual_catl_2025_report": {
+    "doc_id": "annual_catl_2025_report",
+    "domain": "financial_reports",
+    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_catl_2025_report.PDF",
+    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_catl_2025_report.json",
+    "page_count": 232,
+    "char_count": 207447,
+    "source_type": "pdf"
+  },
+  "annual_chinamobile_2025_report": {
+    "doc_id": "annual_chinamobile_2025_report",
+    "domain": "financial_reports",
+    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_chinamobile_2025_report.PDF",
+    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_chinamobile_2025_report.json",
+    "page_count": 214,
+    "char_count": 154200,
+    "source_type": "pdf"
+  },
+  "annual_cmb_2025_report": {
+    "doc_id": "annual_cmb_2025_report",
+    "domain": "financial_reports",
+    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_cmb_2025_report.PDF",
+    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_cmb_2025_report.json",
+    "page_count": 350,
+    "char_count": 191577,
+    "source_type": "pdf"
+  },
+  "annual_cscec_2024_report": {
+    "doc_id": "annual_cscec_2024_report",
+    "domain": "financial_reports",
+    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_cscec_2024_report.pdf",
+    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_cscec_2024_report.json",
+    "page_count": 392,
+    "char_count": 343432,
+    "source_type": "pdf"
+  },
+  "annual_cscec_2025_report": {
+    "doc_id": "annual_cscec_2025_report",
+    "domain": "financial_reports",
+    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_cscec_2025_report.pdf",
+    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_cscec_2025_report.json",
+    "page_count": 370,
+    "char_count": 321044,
+    "source_type": "pdf"
+  },
+  "annual_midea_2024_report": {
+    "doc_id": "annual_midea_2024_report",
+    "domain": "financial_reports",
+    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_midea_2024_report.PDF",
+    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_midea_2024_report.json",
+    "page_count": 295,
+    "char_count": 269050,
+    "source_type": "pdf"
+  },
+  "annual_midea_2025_report": {
+    "doc_id": "annual_midea_2025_report",
+    "domain": "financial_reports",
+    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_midea_2025_report.PDF",
+    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_midea_2025_report.json",
+    "page_count": 276,
+    "char_count": 246434,
+    "source_type": "pdf"
+  }
+}
