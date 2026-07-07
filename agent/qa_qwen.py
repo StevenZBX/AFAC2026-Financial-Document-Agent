@@ -8,7 +8,7 @@ from agent.qwen_api import ChatResult, QwenClient
 
 
 class QAAgent:
-    def __init__(self, trace_path=None, enable_thinking=None):
+    def __init__(self, trace_path=None, enable_thinking=False):
         self.client = QwenClient(enable_thinking=enable_thinking)
         self.trace_dir = self._resolve_trace_dir(trace_path)
         self.run_time = datetime.now().astimezone()

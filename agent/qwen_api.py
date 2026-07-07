@@ -19,8 +19,54 @@ class ChatResult:
     usage: Dict[str, Any]
     model: str
 
+    @property
+    def answer(self) -> str:
+        return self.content
+
+    @property
+    def prompt_tokens(self) -> int:
+        return self._usage_int("input_tokens", "prompt_tokens")
+
+    @property
+    def completion_tokens(self) -> int:
+        return self._usage_int("output_tokens", "completion_tokens")
+
+    @property
+    def total_tokens(self) -> int:
+        total = self._usage_int("total_tokens")
+        if total:
+            return total
+        return self.prompt_tokens + self.completion_tokens
+
     def to_dict(self) -> Dict[str, Any]:
-        return asdict(self)
+        data = asdict(self)
+        data.update(
+            {
+                "answer": self.answer,
+                "prompt_tokens": self.prompt_tokens,
+                "completion_tokens": self.completion_tokens,
+                "total_tokens": self.total_tokens,
+            }
+        )
+        return data
+
+    def __getitem__(self, key: str) -> Any:
+        if key == "answer":
+            return self.answer
+        if key == "prompt_tokens":
+            return self.prompt_tokens
+        if key == "completion_tokens":
+            return self.completion_tokens
+        if key == "total_tokens":
+            return self.total_tokens
+        return getattr(self, key)
+
+    def _usage_int(self, *keys: str) -> int:
+        for key in keys:
+            value = (self.usage or {}).get(key)
+            if value is not None:
+                return int(value)
+        return 0
 
 
 class QwenClient:
