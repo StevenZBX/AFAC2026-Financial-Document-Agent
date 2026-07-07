@@ -180,6 +180,6 @@ if __name__ == "__main__":
             str(ROOT / "public_dataset_upload" / "questions" / "group_a" / "financial_reports_questions.json"),
             str(ROOT / "public_dataset_upload" / "questions" / "group_a" / "insurance_questions.json"),
         ],
-        evidence_path=str(ROOT / "retriever" / "chunks_raw" / "evidence.json"),
+        evidence_path=str(ROOT / "processed_data" / "group_a" / "evidence.json"),
         output_path=str(ROOT / "answer.csv")
     )
