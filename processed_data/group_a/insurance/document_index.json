@@ -1,0 +1,146 @@
+{
+  "1": {
+    "doc_id": "1",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\1.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\1.json",
+    "page_count": 21,
+    "char_count": 21482,
+    "source_type": "pdf"
+  },
+  "10": {
+    "doc_id": "10",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\10.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\10.json",
+    "page_count": 14,
+    "char_count": 14671,
+    "source_type": "pdf"
+  },
+  "11": {
+    "doc_id": "11",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\11.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\11.json",
+    "page_count": 7,
+    "char_count": 6140,
+    "source_type": "pdf"
+  },
+  "12": {
+    "doc_id": "12",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\12.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\12.json",
+    "page_count": 11,
+    "char_count": 10636,
+    "source_type": "pdf"
+  },
+  "13": {
+    "doc_id": "13",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\13.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\13.json",
+    "page_count": 8,
+    "char_count": 7151,
+    "source_type": "pdf"
+  },
+  "14": {
+    "doc_id": "14",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\14.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\14.json",
+    "page_count": 7,
+    "char_count": 6852,
+    "source_type": "pdf"
+  },
+  "15": {
+    "doc_id": "15",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\15.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\15.json",
+    "page_count": 8,
+    "char_count": 9155,
+    "source_type": "pdf"
+  },
+  "16": {
+    "doc_id": "16",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\16.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\16.json",
+    "page_count": 13,
+    "char_count": 10609,
+    "source_type": "pdf"
+  },
+  "2": {
+    "doc_id": "2",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\2.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\2.json",
+    "page_count": 12,
+    "char_count": 13075,
+    "source_type": "pdf"
+  },
+  "3": {
+    "doc_id": "3",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\3.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\3.json",
+    "page_count": 17,
+    "char_count": 16007,
+    "source_type": "pdf"
+  },
+  "4": {
+    "doc_id": "4",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\4.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\4.json",
+    "page_count": 33,
+    "char_count": 35957,
+    "source_type": "pdf"
+  },
+  "5": {
+    "doc_id": "5",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\5.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\5.json",
+    "page_count": 45,
+    "char_count": 49972,
+    "source_type": "pdf"
+  },
+  "6": {
+    "doc_id": "6",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\6.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\6.json",
+    "page_count": 42,
+    "char_count": 47946,
+    "source_type": "pdf"
+  },
+  "7": {
+    "doc_id": "7",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\7.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\7.json",
+    "page_count": 8,
+    "char_count": 7154,
+    "source_type": "pdf"
+  },
+  "8": {
+    "doc_id": "8",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\8.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\8.json",
+    "page_count": 39,
+    "char_count": 34556,
+    "source_type": "pdf"
+  },
+  "9": {
+    "doc_id": "9",
+    "domain": "insurance",
+    "source_path": "public_dataset_upload\\raw\\insurance\\9.pdf",
+    "output_path": "processed_data\\group_a\\insurance\\documents\\9.json",
+    "page_count": 14,
+    "char_count": 14950,
+    "source_type": "pdf"
+  }
+}

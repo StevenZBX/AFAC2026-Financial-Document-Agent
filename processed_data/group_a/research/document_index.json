@@ -1,0 +1,182 @@
+{
+  "pack2_text01": {
+    "doc_id": "pack2_text01",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text01.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text01.json",
+    "page_count": 26,
+    "char_count": 30280,
+    "source_type": "pdf"
+  },
+  "pack2_text02": {
+    "doc_id": "pack2_text02",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text02.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text02.json",
+    "page_count": 37,
+    "char_count": 16408,
+    "source_type": "pdf"
+  },
+  "pack2_text03": {
+    "doc_id": "pack2_text03",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text03.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text03.json",
+    "page_count": 36,
+    "char_count": 44228,
+    "source_type": "pdf"
+  },
+  "pack2_text04": {
+    "doc_id": "pack2_text04",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text04.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text04.json",
+    "page_count": 106,
+    "char_count": 87096,
+    "source_type": "pdf"
+  },
+  "pack2_text05": {
+    "doc_id": "pack2_text05",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text05.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text05.json",
+    "page_count": 34,
+    "char_count": 32392,
+    "source_type": "pdf"
+  },
+  "pack2_text06": {
+    "doc_id": "pack2_text06",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text06.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text06.json",
+    "page_count": 41,
+    "char_count": 9483,
+    "source_type": "pdf"
+  },
+  "pack2_text07": {
+    "doc_id": "pack2_text07",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text07.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text07.json",
+    "page_count": 59,
+    "char_count": 31761,
+    "source_type": "pdf"
+  },
+  "pack2_text08": {
+    "doc_id": "pack2_text08",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text08.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text08.json",
+    "page_count": 37,
+    "char_count": 17040,
+    "source_type": "pdf"
+  },
+  "pack2_text09": {
+    "doc_id": "pack2_text09",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text09.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text09.json",
+    "page_count": 37,
+    "char_count": 40829,
+    "source_type": "pdf"
+  },
+  "pack2_text10": {
+    "doc_id": "pack2_text10",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text10.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text10.json",
+    "page_count": 33,
+    "char_count": 36940,
+    "source_type": "pdf"
+  },
+  "pack2_text11": {
+    "doc_id": "pack2_text11",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text11.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text11.json",
+    "page_count": 35,
+    "char_count": 35351,
+    "source_type": "pdf"
+  },
+  "pack2_text12": {
+    "doc_id": "pack2_text12",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text12.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text12.json",
+    "page_count": 25,
+    "char_count": 23956,
+    "source_type": "pdf"
+  },
+  "pack2_text13": {
+    "doc_id": "pack2_text13",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text13.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text13.json",
+    "page_count": 20,
+    "char_count": 15962,
+    "source_type": "pdf"
+  },
+  "pack2_text14": {
+    "doc_id": "pack2_text14",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text14.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text14.json",
+    "page_count": 55,
+    "char_count": 30200,
+    "source_type": "pdf"
+  },
+  "pack2_text15": {
+    "doc_id": "pack2_text15",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text15.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text15.json",
+    "page_count": 43,
+    "char_count": 53344,
+    "source_type": "pdf"
+  },
+  "pack2_text16": {
+    "doc_id": "pack2_text16",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text16.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text16.json",
+    "page_count": 21,
+    "char_count": 22276,
+    "source_type": "pdf"
+  },
+  "pack2_text17": {
+    "doc_id": "pack2_text17",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text17.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text17.json",
+    "page_count": 20,
+    "char_count": 17668,
+    "source_type": "pdf"
+  },
+  "pack2_text18": {
+    "doc_id": "pack2_text18",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text18.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text18.json",
+    "page_count": 32,
+    "char_count": 28087,
+    "source_type": "pdf"
+  },
+  "pack2_text19": {
+    "doc_id": "pack2_text19",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text19.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text19.json",
+    "page_count": 23,
+    "char_count": 23315,
+    "source_type": "pdf"
+  },
+  "pack2_text20": {
+    "doc_id": "pack2_text20",
+    "domain": "research",
+    "source_path": "public_dataset_upload\\raw\\research\\pack2_text20.pdf",
+    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text20.json",
+    "page_count": 55,
+    "char_count": 30200,
+    "source_type": "pdf"
+  }
+}

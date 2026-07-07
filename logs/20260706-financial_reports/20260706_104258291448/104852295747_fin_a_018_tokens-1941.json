@@ -1,0 +1,344 @@
+{
+  "timestamp": "2026-07-06T10:48:52.295747+08:00",
+  "messages": [
+    {
+      "role": "system",
+      "content": "你是金融文档问答助手，只能根据用户提供的证据回答。"
+    },
+    {
+      "role": "user",
+      "content": "你是金融文档问答助手。请只根据证据回答选择题。\n\n题目ID：fin_a_018\n题型：tf\n\n题目：\n判断题：根据 2025 年年度报告，宁德时代与美的集团的营业收入均实现双位数增长，且宁德时代的净利润增速高于美的集团。\n\n选项：\nA. 正确\nB. 错误\n\n证据：\n[证据1]\ndoc_id: annual_midea_2025_report\npage: 127\ntext: （二） KUKA集团及TLSC集团的商誉减值测试 关键审计事项 我们在审计中如何应对关键审计事项 (一) 智能家居业务收入确认 参见财务报表附注二（ 26）（a）收入之销售商 品会计政策、附注四（ 48）营业收入和营业成 本及附注八分部报告。 美的集团在客户取得相关商品或服务的控制权 时，按预期有权收取的对价金额确认相关收 入。于 2025 年度，美的集团的合并营业收入 约为人民币 456,451,731 千元，其中智能家居 业务收入合计约为人民币 326,084,667 千元。 由于美的集团通过不同的销售渠道在境内外销 售智能家居业务产品，销售客户众多且销售量 巨大，智能家居业务销售收入金额对财务报表 影响重大，我们在审计中予以重点关注并投入 了大量的审计资源来执行相应的审计程序。因 此我们将该事项作为关键审计事项。 我们主要执行了以下程序以应对该关键审计事项：\n\n[证据2]\ndoc_id: annual_midea_2025_report\npage: 94\ntext: 3、为规范美的控股及其控制的其他企业和何享健、何享健 直系亲属及其控制的其他企业等相关主体未来可能与美的集团涉 及关联交易事宜，美的控股和何享健承诺： （1）将规范并尽最大的努力减少与美的集团及其控制的企 业之间的关联交易。若与美的集团及其控制的企业发生无法避免 的关联交易，包括但不限于商品交易、相互提供服务或作为代 理，将与美的集团依法签订规范的关联交易协议，并按照有关的 法律法规、规章及其他规范性文件和美的集团公司章程的有关规 定履行批准程序，保证关联交易价格具有公允性，保证按照有关 法律、法规和美的集团公司章程的规定履行关联交易的信息披露 义务，保证不利用关联交易非法转移美的集团的资金、利润，不 利用关联交易损害美的集团及股东的利益； （2）在美的集团股东大会对涉及上述 相关主体关联交易事 项进行表决时，履行回避表决的义务； （3）上述相关主体将不会要求美的集团给予与其在任何一 项市场公平交易中给予独立第三方的条件相比更为优惠的条件； （4）只要美的控股和何享健按照中华人民共和国有效的法 2013 年 03 月 28 日 长期履行 3、不存在违反承诺的情况。\n\n[证据3]\ndoc_id: annual_midea_2025_report\npage: 94\ntext: 93 题； （3）对于美的集团及其控制的企业在其现有业务范围的基 础上进一步拓展其经营业务范围，而上述相关主体目前尚未对此 进行生产、经营的，只要美的控股和何享健仍然是美的集团的控 股股东和实际控制人，将不从事与美的集团及其控制的企业相竞 争的该等新业务； （4）只要美的控股和何享健按照中华人民共和国有效的法 律、法规或其他规范性文件认定为美的集团的控股股东和实际控 制人，将不会变更、解除本承诺； （5）美的控股和何享健将忠实履行上述承诺，并承担相应 的法律责任，若不履行本承诺所赋予的义务和责任，将依照相关 法律、法规、规章及规范性文件承担相应的违约责任。 控股股 东、实 际控制 人 规范关联 交易承诺\n\n[证据4]\ndoc_id: annual_catl_2025_report\npage: 12\ntext: 12 营业收入 84,704,589 94,181,664 104,185,734 140,629,847 归属于上市公司股东 的净利润 13,962,558 16,522,581 18,548,970 23,167,173 归属于上市公司股东 的扣除非经常性损益 的净利润 11,829,172 15,368,296 16,421,757 20,888,640 经营活动产生的现金 流量净额 32,868,257 25,818,809 21,973,364 52,559,552 上述财务指标或其加总数是否与公司已披露季度报告、半年度报告相关财务指标存在重大差异 □是 否\n\n[证据5]\ndoc_id: annual_midea_2025_report\npage: 7\ntext: 6 释义 释义项 指 释义内容 公司、本公司、美的、美的集团或本集团 指 美的集团股份有限公司 境内、国内、内地 指 中国大陆（仅就本报告而言，不包括香港、澳门和台湾 地区） 美的控股 指 美的控股有限公司 库卡集团、库卡 指 KUKA Aktiengesellschaft 东芝家电或 TLSC 指 东芝生活电器株式会社（ Toshiba Lifestyle Products & Services Corporation） 合康新能 指 北京合康新能科技股份有限公司 万东医疗 指 北京万东医疗科技股份有限公司 科陆电子 指 深圳市科陆电子科技股份有限公司 瑞仕格 指 Swisslog Holding AG 高创 指 Servotronix Motion Control Ltd. 菱王 指 菱王电梯有限公司 报告期 指 2025 年 1 月 1 日至 2025 年 12月 31 日\n\n[证据6]\ndoc_id: annual_midea_2025_report\npage: 127\ntext: 2. 抽样检查美 的集团与各销售渠道的客户签订的智能家居业务 销售合同，结合我们对美的集团管理层的访谈，及对美的集 团智能家居业务的了解及审计经验，分析评估美的集团智能 家居业务收入确认的会计政策的恰当性；\n\n[证据7]\ndoc_id: annual_catl_2025_report\npage: 119\ntext: 宁德时代新能源科技股份有限公司 2025 年年度报告全文 119 减：所得税费用 8,216,163 6,584,433\n\n[证据8]\ndoc_id: annual_catl_2025_report\npage: 8\ntext: 一、载有公司法定代表人签字的 2025年年度报告原件。\n\n请直接给出正确答案字母，并简单说明理由。\n如果是多选题，答案按 ABCD 顺序输出，不要加逗号。"
+    }
+  ],
+  "answer": "B\n\n理由：证据中仅提供了宁德时代2025年营业收入（140,629,847千元）和归属于上市公司股东的净利润（23,167,173千元），但未提供其前一年（2024年）数据，因此无法计算其增长率；同样，证据1给出美的集团2025年合并营业收入为456,451,731千元（即约4564.52亿元），但未提供2024年营业收入数据，无法判断是否实现“双位数增长”；更无任何证据显示两家公司净利润增速的比较结果。题干断言“均实现双位数增长”且“宁德时代净利润增速高于美的集团”，但所有证据均未提供必要的同比增速数据（即缺少2024年基准值），故该判断缺乏依据，应判为**错误**。",
+  "reasoning": "",
+  "usage": {
+    "input_tokens": 1739,
+    "output_tokens": 202,
+    "total_tokens": 1941,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  },
+  "model": "qwen-plus",
+  "qid": "fin_a_018",
+  "domain": "financial_reports",
+  "question": {
+    "qid": "fin_a_018",
+    "domain": "financial_reports",
+    "split": "A",
+    "question": "判断题：根据 2025 年年度报告，宁德时代与美的集团的营业收入均实现双位数增长，且宁德时代的净利润增速高于美的集团。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer_format": "tf",
+    "type": "业绩增长趋势判断",
+    "doc_ids": [
+      "annual_catl_2025_report",
+      "annual_midea_2025_report"
+    ]
+  },
+  "evidence": {
+    "qid": "fin_a_018",
+    "domain": "financial_reports",
+    "split": "A",
+    "candidate_doc_ids": [
+      "annual_catl_2025_report",
+      "annual_midea_2025_report"
+    ],
+    "evidence": [
+      {
+        "doc_id": "annual_midea_2025_report",
+        "chunk_id": "annual_midea_2025_report:p127:s3:c0",
+        "domain": "financial_reports",
+        "text": "（二） KUKA集团及TLSC集团的商誉减值测试 关键审计事项 我们在审计中如何应对关键审计事项 (一) 智能家居业务收入确认 参见财务报表附注二（ 26）（a）收入之销售商 品会计政策、附注四（ 48）营业收入和营业成 本及附注八分部报告。 美的集团在客户取得相关商品或服务的控制权 时，按预期有权收取的对价金额确认相关收 入。于 2025 年度，美的集团的合并营业收入 约为人民币 456,451,731 千元，其中智能家居 业务收入合计约为人民币 326,084,667 千元。 由于美的集团通过不同的销售渠道在境内外销 售智能家居业务产品，销售客户众多且销售量 巨大，智能家居业务销售收入金额对财务报表 影响重大，我们在审计中予以重点关注并投入 了大量的审计资源来执行相应的审计程序。因 此我们将该事项作为关键审计事项。 我们主要执行了以下程序以应对该关键审计事项：",
+        "score": 116.902455,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "2025",
+          "营业收入",
+          "收入",
+          "年度",
+          "2025 年"
+        ],
+        "metadata": {
+          "chunk_id": "annual_midea_2025_report:p127:s3:c0",
+          "doc_id": "annual_midea_2025_report",
+          "domain": "financial_reports",
+          "page": 127,
+          "page_type": "content",
+          "title": "（二） KUKA集团及TLSC集团的商誉减值测试",
+          "hierarchy": {
+            "heading": "审计报告（续）",
+            "section": "第八节 财务报告",
+            "part": "三、 关键审计事项",
+            "item": "（二） KUKA集团及TLSC集团的商誉减值测试"
+          },
+          "keywords": [
+            "审计报告（续）",
+            "第八节 财务报告",
+            "三、 关键审计事项",
+            "（二） KUKA集团及TLSC集团的商誉减值测试"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_reports/annual_midea_2025_report.PDF",
+          "processed_path": "processed_data/group_a/financial_reports/documents/annual_midea_2025_report.json",
+          "original_text": "（二） KUKA集团及TLSC集团的商誉减值测试 关键审计事项 我们在审计中如何应对关键审计事项 (一) 智能家居业务收入确认 参见财务报表附注二（ 26）（a）收入之销售商 品会计政策、附注四（ 48）营业收入和营业成 本及附注八分部报告。 美的集团在客户取得相关商品或服务的控制权 时，按预期有权收取的对价金额确认相关收 入。于 2025 年度，美的集团的合并营业收入 约为人民币 456,451,731 千元，其中智能家居 业务收入合计约为人民币 326,084,667 千元。 由于美的集团通过不同的销售渠道在境内外销 售智能家居业务产品，销售客户众多且销售量 巨大，智能家居业务销售收入金额对财务报表 影响重大，我们在审计中予以重点关注并投入 了大量的审计资源来执行相应的审计程序。因 此我们将该事项作为关键审计事项。 我们主要执行了以下程序以应对该关键审计事项："
+        }
+      },
+      {
+        "doc_id": "annual_midea_2025_report",
+        "chunk_id": "annual_midea_2025_report:p94:s1:c0",
+        "domain": "financial_reports",
+        "text": "3、为规范美的控股及其控制的其他企业和何享健、何享健 直系亲属及其控制的其他企业等相关主体未来可能与美的集团涉 及关联交易事宜，美的控股和何享健承诺： （1）将规范并尽最大的努力减少与美的集团及其控制的企 业之间的关联交易。若与美的集团及其控制的企业发生无法避免 的关联交易，包括但不限于商品交易、相互提供服务或作为代 理，将与美的集团依法签订规范的关联交易协议，并按照有关的 法律法规、规章及其他规范性文件和美的集团公司章程的有关规 定履行批准程序，保证关联交易价格具有公允性，保证按照有关 法律、法规和美的集团公司章程的规定履行关联交易的信息披露 义务，保证不利用关联交易非法转移美的集团的资金、利润，不 利用关联交易损害美的集团及股东的利益； （2）在美的集团股东大会对涉及上述 相关主体关联交易事 项进行表决时，履行回避表决的义务； （3）上述相关主体将不会要求美的集团给予与其在任何一 项市场公平交易中给予独立第三方的条件相比更为优惠的条件； （4）只要美的控股和何享健按照中华人民共和国有效的法 2013 年 03 月 28 日 长期履行 3、不存在违反承诺的情况。",
+        "score": 112.77475,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "利润"
+        ],
+        "metadata": {
+          "chunk_id": "annual_midea_2025_report:p94:s1:c0",
+          "doc_id": "annual_midea_2025_report",
+          "domain": "financial_reports",
+          "page": 94,
+          "page_type": "content",
+          "title": "3、 为规范美的控股及其控制的其他企业和何享健、何享健",
+          "hierarchy": {
+            "section": "第五节 重要事项",
+            "part": "一、 承诺事项履行情况",
+            "subitem": "3、 为规范美的控股及其控制的其他企业和何享健、何享健"
+          },
+          "keywords": [
+            "第五节 重要事项",
+            "一、 承诺事项履行情况",
+            "3、 为规范美的控股及其控制的其他企业和何享健、何享健"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_reports/annual_midea_2025_report.PDF",
+          "processed_path": "processed_data/group_a/financial_reports/documents/annual_midea_2025_report.json",
+          "original_text": "3、为规范美的控股及其控制的其他企业和何享健、何享健 直系亲属及其控制的其他企业等相关主体未来可能与美的集团涉 及关联交易事宜，美的控股和何享健承诺： （1）将规范并尽最大的努力减少与美的集团及其控制的企 业之间的关联交易。若与美的集团及其控制的企业发生无法避免 的关联交易，包括但不限于商品交易、相互提供服务或作为代 理，将与美的集团依法签订规范的关联交易协议，并按照有关的 法律法规、规章及其他规范性文件和美的集团公司章程的有关规 定履行批准程序，保证关联交易价格具有公允性，保证按照有关 法律、法规和美的集团公司章程的规定履行关联交易的信息披露 义务，保证不利用关联交易非法转移美的集团的资金、利润，不 利用关联交易损害美的集团及股东的利益； （2）在美的集团股东大会对涉及上述 相关主体关联交易事 项进行表决时，履行回避表决的义务； （3）上述相关主体将不会要求美的集团给予与其在任何一 项市场公平交易中给予独立第三方的条件相比更为优惠的条件； （4）只要美的控股和何享健按照中华人民共和国有效的法 2013 年 03 月 28 日 长期履行 3、不存在违反承诺的情况。"
+        }
+      },
+      {
+        "doc_id": "annual_midea_2025_report",
+        "chunk_id": "annual_midea_2025_report:p94:s0:c0",
+        "domain": "financial_reports",
+        "text": "93 题； （3）对于美的集团及其控制的企业在其现有业务范围的基 础上进一步拓展其经营业务范围，而上述相关主体目前尚未对此 进行生产、经营的，只要美的控股和何享健仍然是美的集团的控 股股东和实际控制人，将不从事与美的集团及其控制的企业相竞 争的该等新业务； （4）只要美的控股和何享健按照中华人民共和国有效的法 律、法规或其他规范性文件认定为美的集团的控股股东和实际控 制人，将不会变更、解除本承诺； （5）美的控股和何享健将忠实履行上述承诺，并承担相应 的法律责任，若不履行本承诺所赋予的义务和责任，将依照相关 法律、法规、规章及规范性文件承担相应的违约责任。 控股股 东、实 际控制 人 规范关联 交易承诺",
+        "score": 109.758743,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [],
+        "metadata": {
+          "chunk_id": "annual_midea_2025_report:p94:s0:c0",
+          "doc_id": "annual_midea_2025_report",
+          "domain": "financial_reports",
+          "page": 94,
+          "page_type": "content",
+          "title": "2、 为避免美的控股及其控制的其他企业和何享健、何享健",
+          "hierarchy": {
+            "section": "第五节 重要事项",
+            "part": "一、 承诺事项履行情况",
+            "subitem": "2、 为避免美的控股及其控制的其他企业和何享健、何享健"
+          },
+          "keywords": [
+            "第五节 重要事项",
+            "一、 承诺事项履行情况",
+            "2、 为避免美的控股及其控制的其他企业和何享健、何享健"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_reports/annual_midea_2025_report.PDF",
+          "processed_path": "processed_data/group_a/financial_reports/documents/annual_midea_2025_report.json",
+          "original_text": "93 题； （3）对于美的集团及其控制的企业在其现有业务范围的基 础上进一步拓展其经营业务范围，而上述相关主体目前尚未对此 进行生产、经营的，只要美的控股和何享健仍然是美的集团的控 股股东和实际控制人，将不从事与美的集团及其控制的企业相竞 争的该等新业务； （4）只要美的控股和何享健按照中华人民共和国有效的法 律、法规或其他规范性文件认定为美的集团的控股股东和实际控 制人，将不会变更、解除本承诺； （5）美的控股和何享健将忠实履行上述承诺，并承担相应 的法律责任，若不履行本承诺所赋予的义务和责任，将依照相关 法律、法规、规章及规范性文件承担相应的违约责任。 控股股 东、实 际控制 人 规范关联 交易承诺"
+        }
+      },
+      {
+        "doc_id": "annual_catl_2025_report",
+        "chunk_id": "annual_catl_2025_report:p12:s0:c0",
+        "domain": "financial_reports",
+        "text": "12 营业收入 84,704,589 94,181,664 104,185,734 140,629,847 归属于上市公司股东 的净利润 13,962,558 16,522,581 18,548,970 23,167,173 归属于上市公司股东 的扣除非经常性损益 的净利润 11,829,172 15,368,296 16,421,757 20,888,640 经营活动产生的现金 流量净额 32,868,257 25,818,809 21,973,364 52,559,552 上述财务指标或其加总数是否与公司已披露季度报告、半年度报告相关财务指标存在重大差异 □是 否",
+        "score": 102.117428,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "营业收入",
+          "收入",
+          "净利润",
+          "利润",
+          "年度"
+        ],
+        "metadata": {
+          "chunk_id": "annual_catl_2025_report:p12:s0:c0",
+          "doc_id": "annual_catl_2025_report",
+          "domain": "financial_reports",
+          "page": 12,
+          "page_type": "content",
+          "title": "六、 分季度主要财务指标",
+          "hierarchy": {
+            "heading": "宁德时代新能源科技股份有限公司",
+            "section": "第二节 公司简介和主要财务指标",
+            "part": "六、 分季度主要财务指标"
+          },
+          "keywords": [
+            "宁德时代新能源科技股份有限公司",
+            "第二节 公司简介和主要财务指标",
+            "六、 分季度主要财务指标"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_reports/annual_catl_2025_report.PDF",
+          "processed_path": "processed_data/group_a/financial_reports/documents/annual_catl_2025_report.json",
+          "original_text": "12 营业收入 84,704,589 94,181,664 104,185,734 140,629,847 归属于上市公司股东 的净利润 13,962,558 16,522,581 18,548,970 23,167,173 归属于上市公司股东 的扣除非经常性损益 的净利润 11,829,172 15,368,296 16,421,757 20,888,640 经营活动产生的现金 流量净额 32,868,257 25,818,809 21,973,364 52,559,552 上述财务指标或其加总数是否与公司已披露季度报告、半年度报告相关财务指标存在重大差异 □是 否"
+        }
+      },
+      {
+        "doc_id": "annual_midea_2025_report",
+        "chunk_id": "annual_midea_2025_report:p7:s0:c0",
+        "domain": "financial_reports",
+        "text": "6 释义 释义项 指 释义内容 公司、本公司、美的、美的集团或本集团 指 美的集团股份有限公司 境内、国内、内地 指 中国大陆（仅就本报告而言，不包括香港、澳门和台湾 地区） 美的控股 指 美的控股有限公司 库卡集团、库卡 指 KUKA Aktiengesellschaft 东芝家电或 TLSC 指 东芝生活电器株式会社（ Toshiba Lifestyle Products & Services Corporation） 合康新能 指 北京合康新能科技股份有限公司 万东医疗 指 北京万东医疗科技股份有限公司 科陆电子 指 深圳市科陆电子科技股份有限公司 瑞仕格 指 Swisslog Holding AG 高创 指 Servotronix Motion Control Ltd. 菱王 指 菱王电梯有限公司 报告期 指 2025 年 1 月 1 日至 2025 年 12月 31 日",
+        "score": 101.424933,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "2025",
+          "年度",
+          "2025 年"
+        ],
+        "metadata": {
+          "chunk_id": "annual_midea_2025_report:p7:s0:c0",
+          "doc_id": "annual_midea_2025_report",
+          "domain": "financial_reports",
+          "page": 7,
+          "page_type": "content",
+          "title": "四、 在其他证券市场公布的年度报告。",
+          "hierarchy": {
+            "section": "第一节 重要提示、目录和释义",
+            "part": "四、 在其他证券市场公布的年度报告。"
+          },
+          "keywords": [
+            "第一节 重要提示、目录和释义",
+            "四、 在其他证券市场公布的年度报告。"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_reports/annual_midea_2025_report.PDF",
+          "processed_path": "processed_data/group_a/financial_reports/documents/annual_midea_2025_report.json",
+          "original_text": "6 释义 释义项 指 释义内容 公司、本公司、美的、美的集团或本集团 指 美的集团股份有限公司 境内、国内、内地 指 中国大陆（仅就本报告而言，不包括香港、澳门和台湾 地区） 美的控股 指 美的控股有限公司 库卡集团、库卡 指 KUKA Aktiengesellschaft 东芝家电或 TLSC 指 东芝生活电器株式会社（ Toshiba Lifestyle Products & Services Corporation） 合康新能 指 北京合康新能科技股份有限公司 万东医疗 指 北京万东医疗科技股份有限公司 科陆电子 指 深圳市科陆电子科技股份有限公司 瑞仕格 指 Swisslog Holding AG 高创 指 Servotronix Motion Control Ltd. 菱王 指 菱王电梯有限公司 报告期 指 2025 年 1 月 1 日至 2025 年 12月 31 日"
+        }
+      },
+      {
+        "doc_id": "annual_midea_2025_report",
+        "chunk_id": "annual_midea_2025_report:p127:s5:c0",
+        "domain": "financial_reports",
+        "text": "2. 抽样检查美 的集团与各销售渠道的客户签订的智能家居业务 销售合同，结合我们对美的集团管理层的访谈，及对美的集 团智能家居业务的了解及审计经验，分析评估美的集团智能 家居业务收入确认的会计政策的恰当性；",
+        "score": 97.196599,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "收入"
+        ],
+        "metadata": {
+          "chunk_id": "annual_midea_2025_report:p127:s5:c0",
+          "doc_id": "annual_midea_2025_report",
+          "domain": "financial_reports",
+          "page": 127,
+          "page_type": "content",
+          "title": "2. 抽样检查美 的集团与各销售渠道的客户签订的智能家居业务",
+          "hierarchy": {
+            "heading": "审计报告（续）",
+            "section": "第八节 财务报告",
+            "part": "三、 关键审计事项",
+            "item": "（二） KUKA集团及TLSC集团的商誉减值测试",
+            "subitem": "2. 抽样检查美 的集团与各销售渠道的客户签订的智能家居业务"
+          },
+          "keywords": [
+            "审计报告（续）",
+            "第八节 财务报告",
+            "三、 关键审计事项",
+            "（二） KUKA集团及TLSC集团的商誉减值测试",
+            "2. 抽样检查美 的集团与各销售渠道的客户签订的智能家居业务"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_reports/annual_midea_2025_report.PDF",
+          "processed_path": "processed_data/group_a/financial_reports/documents/annual_midea_2025_report.json",
+          "original_text": "2. 抽样检查美 的集团与各销售渠道的客户签订的智能家居业务 销售合同，结合我们对美的集团管理层的访谈，及对美的集 团智能家居业务的了解及审计经验，分析评估美的集团智能 家居业务收入确认的会计政策的恰当性；"
+        }
+      },
+      {
+        "doc_id": "annual_catl_2025_report",
+        "chunk_id": "annual_catl_2025_report:p119:s0:c0",
+        "domain": "financial_reports",
+        "text": "宁德时代新能源科技股份有限公司 2025 年年度报告全文 119 减：所得税费用 8,216,163 6,584,433",
+        "score": 96.145099,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "2025",
+          "年年度报告",
+          "利润",
+          "年度",
+          "2025 年"
+        ],
+        "metadata": {
+          "chunk_id": "annual_catl_2025_report:p119:s0:c0",
+          "doc_id": "annual_catl_2025_report",
+          "domain": "financial_reports",
+          "page": 119,
+          "page_type": "content",
+          "title": "三、 利润总额（亏损总额以“－”号填",
+          "hierarchy": {
+            "heading": "宁德时代新能源科技股份有限公司",
+            "section": "第八节 财务报告",
+            "part": "三、 利润总额（亏损总额以“－”号填"
+          },
+          "keywords": [
+            "宁德时代新能源科技股份有限公司",
+            "第八节 财务报告",
+            "三、 利润总额（亏损总额以“－”号填"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_reports/annual_catl_2025_report.PDF",
+          "processed_path": "processed_data/group_a/financial_reports/documents/annual_catl_2025_report.json",
+          "original_text": "宁德时代新能源科技股份有限公司 2025 年年度报告全文 119 减：所得税费用 8,216,163 6,584,433"
+        }
+      },
+      {
+        "doc_id": "annual_catl_2025_report",
+        "chunk_id": "annual_catl_2025_report:p8:s1:c0",
+        "domain": "financial_reports",
+        "text": "一、载有公司法定代表人签字的 2025年年度报告原件。",
+        "score": 94.736011,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "2025",
+          "年年度报告",
+          "年度",
+          "2025 年"
+        ],
+        "metadata": {
+          "chunk_id": "annual_catl_2025_report:p8:s1:c0",
+          "doc_id": "annual_catl_2025_report",
+          "domain": "financial_reports",
+          "page": 8,
+          "page_type": "content",
+          "title": "一、 载有公司法定代表人签字的 2025年年度报告原件。",
+          "hierarchy": {
+            "heading": "宁德时代新能源科技股份有限公司",
+            "section": "第一节 重要提示、目录和释义",
+            "part": "一、 载有公司法定代表人签字的 2025年年度报告原件。"
+          },
+          "keywords": [
+            "宁德时代新能源科技股份有限公司",
+            "第一节 重要提示、目录和释义",
+            "一、 载有公司法定代表人签字的 2025年年度报告原件。"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_reports/annual_catl_2025_report.PDF",
+          "processed_path": "processed_data/group_a/financial_reports/documents/annual_catl_2025_report.json",
+          "original_text": "一、载有公司法定代表人签字的 2025年年度报告原件。"
+        }
+      }
+    ]
+  }
+}
