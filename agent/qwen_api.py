@@ -41,9 +41,11 @@ class QwenClient:
         call_args = {
             "api_key": self.api_key,
             "model": self.model,
+            "seed": 12138,
             "messages": messages,
             "result_format": "message",
-            "enable_thinking": self.enable_thinking
+            "enable_thinking": self.enable_thinking,
+            "max_tokens": 8000
         }
 
         response = Generation.call(
