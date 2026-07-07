@@ -449,7 +449,7 @@ class ProcessingPipeline:
 if __name__ == "__main__":
     config = ProcessConfig(
         raw_dir=Path("public_dataset_upload/raw"),
-        question_file=Path("public_dataset_upload/questions/group_a/financial_reports_questions.json"),
+        question_file=Path("public_dataset_upload/questions/group_a/research_questions.json"),
         output_dir=Path("processed_data"),
         prefer_txt=True,
     )
