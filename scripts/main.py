@@ -58,7 +58,7 @@ def main():
     evidences = load_json(EVIDENCE_PATH)
     evidence_by_qid = {item["qid"]: item for item in evidences if item.get("qid")}
 
-    qa = QAAgent(enable_thinking=False)
+    qa = QAAgent(enable_thinking=True)
 
     for question in questions:
         qid = question["qid"]
