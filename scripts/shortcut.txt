@@ -1,0 +1,13 @@
+python scripts/evidence_retriever.py `
+  --processed-roots `
+    processed_data/group_a/financial_contracts `
+    processed_data/group_a/financial_reports `
+    processed_data/group_a/insurance `
+    processed_data/group_a/research`
+  --chunks processed_data/group_a/chunks.json `
+  --questions `
+    public_dataset_upload/questions/group_a/financial_contracts_questions.json `
+    public_dataset_upload/questions/group_a/financial_reports_questions.json `
+    public_dataset_upload/questions/group_a/insurance_questions.json `
+    public_dataset_upload/questions/group_a/research_questions.json `
+  --output processed_data/group_a/evidence.json
