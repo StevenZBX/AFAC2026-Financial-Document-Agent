@@ -1,0 +1,334 @@
+{
+  "timestamp": "2026-07-06T13:11:02.339915+08:00",
+  "messages": [
+    {
+      "role": "system",
+      "content": "你是金融文档问答助手，只能根据用户提供的证据回答。"
+    },
+    {
+      "role": "user",
+      "content": "你是金融文档问答助手。请只根据证据回答选择题。\n\n题目ID：fc_a_003\n题型：tf\n\n题目：\n两份文档均包含关于发行人将及时、公平地履行信息披露义务的明确承诺条款。\n\n选项：\nA. 正确\nB. 错误\n\n证据：\n[证据1]\ndoc_id: text01\npage: 233\ntext: 232 导性陈述或者重大遗漏。甲方应当根据相关法律、法规和规则的规定，制定信 息披露事务管理制度，并指定信息披露事务负责人及联络人负责信息披露相关 事宜，按照规定和约定履行信息披露义务。\n\n[证据2]\ndoc_id: text03\npage: 167\ntext: 第九节 信息披露安排 发行人承诺，在债券存续期内，将按照法律法规规定和募集说明书的约定， 及时、公平地履行信息披露义务，保证信息披露内容的真实、准确、完整，简明 清晰，通俗易懂。\n\n[证据3]\ndoc_id: text03\npage: 198\ntext: 3.4 本期债券存续期内，甲方应当根据法律法规，及时、公平地履行信息 披露义务，确保所披露或者报送的信息真实、准确、完整，不得有虚假记载、 误导性陈述或者重大遗漏。\n\n[证据4]\ndoc_id: text01\npage: 200\ntext: 第九节 信息披露安排 发行人承诺，在债券存续期内，将按照法律法规规定和募集说明书的约定， 及时、公平地履行信息披露义务，保证信息披露内容的真实、准确、完整，简 明清晰，通俗易懂。\n\n[证据5]\ndoc_id: text03\npage: 170\ntext: 三、重大事项披露 发行人承诺，当发生影响发行人偿债能力、债券价格、投资者权益的重大 事项或募集说明书约定发行人应当履行信息披露义务的其他事项时，或者存在 关于发行人及其债券的重大市场传闻时，发行人将按照法律法规的规定和募集 说明书的约定及时履行信息披露义务，说明事件的起因、目前的状态和可能产 生的后果，并持续披露事件的进展情况。\n\n[证据6]\ndoc_id: text01\npage: 206\ntext: 四、重大事项披露 发行人承诺，当发生影响发行人偿债能力、债券价格、投资者权益的重大 事项或募集说明书约定发行人应当履行信息披露义务的其他事项时，或者存在 关于发行人及其债券的重大市场传闻时，发行人将按照法律法规的规定和募集 说明书的约定及时履行信息披露义务，说明事件的起因、目前的状态和可能产 生的后果，并持续披露事件的进展情况。\n\n[证据7]\ndoc_id: text03\npage: 208\ntext: 4.9 乙方应当在债券存续期内持续督促甲方还本付息、履行信息披露及有 关承诺的义务。对影响偿债能力和投资者权益的重大事项，乙方应当督促甲方 及时、公平地履行信息披露义务，督导甲方提升信息披露质量，有效维护债券 持有人利益。乙方应当关注甲方的信息披露情况，收集、保存与本期债券偿付 相关的所有信息资料，根据所获信息判断对本期债券本息偿付的影响，并按照 本协议的约定报告债券持有人。\n\n[证据8]\ndoc_id: text03\npage: 172\ntext: （五）严格履行信息披露义务 本公司将遵循真实、准确、完整的信息披露原则，使公司偿债能力、募集 资金使用等情况受到债券持有人和债券受托管理人的监督，防范偿债风险。发 行人将按《债券受托管理协议》及中国证监会的有关规定进行重大事项信息披 露。\n\n请直接给出正确答案字母，并简单说明理由。\n如果是多选题，答案按 ABCD 顺序输出，不要加逗号。"
+    }
+  ],
+  "answer": "A  \n理由：证据2和证据4均明确指出“发行人承诺，在债券存续期内，将按照法律法规规定和募集说明书的约定，及时、公平地履行信息披露义务”，且分别出自text03和text01两份不同文档，满足“两份文档均包含”的要求。因此题目陈述正确。",
+  "reasoning": "",
+  "usage": {
+    "input_tokens": 863,
+    "output_tokens": 69,
+    "total_tokens": 932,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  },
+  "model": "qwen-plus",
+  "qid": "fc_a_003",
+  "domain": "financial_contracts",
+  "question": {
+    "qid": "fc_a_003",
+    "domain": "financial_contracts",
+    "split": "A",
+    "question": "两份文档均包含关于发行人将及时、公平地履行信息披露义务的明确承诺条款。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer_format": "tf",
+    "type": "判断题",
+    "doc_ids": [
+      "text01",
+      "text03"
+    ]
+  },
+  "evidence": {
+    "qid": "fc_a_003",
+    "domain": "financial_contracts",
+    "split": "A",
+    "candidate_doc_ids": [
+      "text01",
+      "text03"
+    ],
+    "evidence": [
+      {
+        "doc_id": "text01",
+        "chunk_id": "text01:p233:s0:c0",
+        "domain": "financial_contracts",
+        "text": "232 导性陈述或者重大遗漏。甲方应当根据相关法律、法规和规则的规定，制定信 息披露事务管理制度，并指定信息披露事务负责人及联络人负责信息披露相关 事宜，按照规定和约定履行信息披露义务。",
+        "score": 160.841372,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "义务"
+        ],
+        "metadata": {
+          "chunk_id": "text01:p233:s0:c0",
+          "doc_id": "text01",
+          "domain": "financial_contracts",
+          "page": 233,
+          "page_type": "content",
+          "title": "3. 4 本期债券存续期内，甲方应当根据法律法规，及时、公平地履行信息披",
+          "hierarchy": {
+            "heading": "广东省广晟控股集团有限公司",
+            "chapter": "第七章 附则",
+            "article": "第三条 甲方的权利和义务",
+            "subitem": "3. 4 本期债券存续期内，甲方应当根据法律法规，及时、公平地履行信息披"
+          },
+          "keywords": [
+            "广东省广晟控股集团有限公司",
+            "第七章 附则",
+            "第三条 甲方的权利和义务",
+            "3. 4 本期债券存续期内，甲方应当根据法律法规，及时、公平地履行信息披"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_contracts/text01.pdf",
+          "processed_path": "processed_data/group_a/financial_contracts/documents/text01.json",
+          "original_text": "232 导性陈述或者重大遗漏。甲方应当根据相关法律、法规和规则的规定，制定信 息披露事务管理制度，并指定信息披露事务负责人及联络人负责信息披露相关 事宜，按照规定和约定履行信息披露义务。"
+        }
+      },
+      {
+        "doc_id": "text03",
+        "chunk_id": "text03:p167:s1:c0",
+        "domain": "financial_contracts",
+        "text": "第九节 信息披露安排 发行人承诺，在债券存续期内，将按照法律法规规定和募集说明书的约定， 及时、公平地履行信息披露义务，保证信息披露内容的真实、准确、完整，简明 清晰，通俗易懂。",
+        "score": 152.006952,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "发行人",
+          "义务"
+        ],
+        "metadata": {
+          "chunk_id": "text03:p167:s1:c0",
+          "doc_id": "text03",
+          "domain": "financial_contracts",
+          "page": 167,
+          "page_type": "content",
+          "title": "第九节 信息披露安排",
+          "hierarchy": {
+            "heading": "重大事项提示",
+            "section": "第九节 信息披露安排"
+          },
+          "keywords": [
+            "重大事项提示",
+            "第九节 信息披露安排"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_contracts/text03.pdf",
+          "processed_path": "processed_data/group_a/financial_contracts/documents/text03.json",
+          "original_text": "第九节 信息披露安排 发行人承诺，在债券存续期内，将按照法律法规规定和募集说明书的约定， 及时、公平地履行信息披露义务，保证信息披露内容的真实、准确、完整，简明 清晰，通俗易懂。"
+        }
+      },
+      {
+        "doc_id": "text03",
+        "chunk_id": "text03:p198:s1:c0",
+        "domain": "financial_contracts",
+        "text": "3.4 本期债券存续期内，甲方应当根据法律法规，及时、公平地履行信息 披露义务，确保所披露或者报送的信息真实、准确、完整，不得有虚假记载、 误导性陈述或者重大遗漏。",
+        "score": 149.105446,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "义务"
+        ],
+        "metadata": {
+          "chunk_id": "text03:p198:s1:c0",
+          "doc_id": "text03",
+          "domain": "financial_contracts",
+          "page": 198,
+          "page_type": "content",
+          "title": "3. 4 本期债券存续期内，甲方应当根据法律法规，及时、公平地履行信息",
+          "hierarchy": {
+            "heading": "重大事项提示",
+            "chapter": "第七章 附则",
+            "article": "第三条 甲方的权利和义务",
+            "subitem": "3. 4 本期债券存续期内，甲方应当根据法律法规，及时、公平地履行信息"
+          },
+          "keywords": [
+            "重大事项提示",
+            "第七章 附则",
+            "第三条 甲方的权利和义务",
+            "3. 4 本期债券存续期内，甲方应当根据法律法规，及时、公平地履行信息"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_contracts/text03.pdf",
+          "processed_path": "processed_data/group_a/financial_contracts/documents/text03.json",
+          "original_text": "3.4 本期债券存续期内，甲方应当根据法律法规，及时、公平地履行信息 披露义务，确保所披露或者报送的信息真实、准确、完整，不得有虚假记载、 误导性陈述或者重大遗漏。"
+        }
+      },
+      {
+        "doc_id": "text01",
+        "chunk_id": "text01:p200:s1:c0",
+        "domain": "financial_contracts",
+        "text": "第九节 信息披露安排 发行人承诺，在债券存续期内，将按照法律法规规定和募集说明书的约定， 及时、公平地履行信息披露义务，保证信息披露内容的真实、准确、完整，简 明清晰，通俗易懂。",
+        "score": 146.458806,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "发行人",
+          "义务"
+        ],
+        "metadata": {
+          "chunk_id": "text01:p200:s1:c0",
+          "doc_id": "text01",
+          "domain": "financial_contracts",
+          "page": 200,
+          "page_type": "content",
+          "title": "第九节 信息披露安排",
+          "hierarchy": {
+            "heading": "广东省广晟控股集团有限公司",
+            "section": "第九节 信息披露安排"
+          },
+          "keywords": [
+            "广东省广晟控股集团有限公司",
+            "第九节 信息披露安排"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_contracts/text01.pdf",
+          "processed_path": "processed_data/group_a/financial_contracts/documents/text01.json",
+          "original_text": "第九节 信息披露安排 发行人承诺，在债券存续期内，将按照法律法规规定和募集说明书的约定， 及时、公平地履行信息披露义务，保证信息披露内容的真实、准确、完整，简 明清晰，通俗易懂。"
+        }
+      },
+      {
+        "doc_id": "text03",
+        "chunk_id": "text03:p170:s6:c0",
+        "domain": "financial_contracts",
+        "text": "三、重大事项披露 发行人承诺，当发生影响发行人偿债能力、债券价格、投资者权益的重大 事项或募集说明书约定发行人应当履行信息披露义务的其他事项时，或者存在 关于发行人及其债券的重大市场传闻时，发行人将按照法律法规的规定和募集 说明书的约定及时履行信息披露义务，说明事件的起因、目前的状态和可能产 生的后果，并持续披露事件的进展情况。",
+        "score": 143.721595,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "发行人",
+          "义务"
+        ],
+        "metadata": {
+          "chunk_id": "text03:p170:s6:c0",
+          "doc_id": "text03",
+          "domain": "financial_contracts",
+          "page": 170,
+          "page_type": "content",
+          "title": "三、 重大事项披露",
+          "hierarchy": {
+            "heading": "重大事项提示",
+            "section": "第九节 信息披露安排",
+            "part": "三、 重大事项披露"
+          },
+          "keywords": [
+            "重大事项提示",
+            "第九节 信息披露安排",
+            "三、 重大事项披露"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_contracts/text03.pdf",
+          "processed_path": "processed_data/group_a/financial_contracts/documents/text03.json",
+          "original_text": "三、重大事项披露 发行人承诺，当发生影响发行人偿债能力、债券价格、投资者权益的重大 事项或募集说明书约定发行人应当履行信息披露义务的其他事项时，或者存在 关于发行人及其债券的重大市场传闻时，发行人将按照法律法规的规定和募集 说明书的约定及时履行信息披露义务，说明事件的起因、目前的状态和可能产 生的后果，并持续披露事件的进展情况。"
+        }
+      },
+      {
+        "doc_id": "text01",
+        "chunk_id": "text01:p206:s2:c0",
+        "domain": "financial_contracts",
+        "text": "四、重大事项披露 发行人承诺，当发生影响发行人偿债能力、债券价格、投资者权益的重大 事项或募集说明书约定发行人应当履行信息披露义务的其他事项时，或者存在 关于发行人及其债券的重大市场传闻时，发行人将按照法律法规的规定和募集 说明书的约定及时履行信息披露义务，说明事件的起因、目前的状态和可能产 生的后果，并持续披露事件的进展情况。",
+        "score": 140.295361,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "发行人",
+          "义务"
+        ],
+        "metadata": {
+          "chunk_id": "text01:p206:s2:c0",
+          "doc_id": "text01",
+          "domain": "financial_contracts",
+          "page": 206,
+          "page_type": "content",
+          "title": "四、 重大事项披露",
+          "hierarchy": {
+            "heading": "广东省广晟控股集团有限公司",
+            "section": "第九节 信息披露安排",
+            "part": "四、 重大事项披露"
+          },
+          "keywords": [
+            "广东省广晟控股集团有限公司",
+            "第九节 信息披露安排",
+            "四、 重大事项披露"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_contracts/text01.pdf",
+          "processed_path": "processed_data/group_a/financial_contracts/documents/text01.json",
+          "original_text": "四、重大事项披露 发行人承诺，当发生影响发行人偿债能力、债券价格、投资者权益的重大 事项或募集说明书约定发行人应当履行信息披露义务的其他事项时，或者存在 关于发行人及其债券的重大市场传闻时，发行人将按照法律法规的规定和募集 说明书的约定及时履行信息披露义务，说明事件的起因、目前的状态和可能产 生的后果，并持续披露事件的进展情况。"
+        }
+      },
+      {
+        "doc_id": "text03",
+        "chunk_id": "text03:p208:s1:c0",
+        "domain": "financial_contracts",
+        "text": "4.9 乙方应当在债券存续期内持续督促甲方还本付息、履行信息披露及有 关承诺的义务。对影响偿债能力和投资者权益的重大事项，乙方应当督促甲方 及时、公平地履行信息披露义务，督导甲方提升信息披露质量，有效维护债券 持有人利益。乙方应当关注甲方的信息披露情况，收集、保存与本期债券偿付 相关的所有信息资料，根据所获信息判断对本期债券本息偿付的影响，并按照 本协议的约定报告债券持有人。",
+        "score": 126.188915,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "义务"
+        ],
+        "metadata": {
+          "chunk_id": "text03:p208:s1:c0",
+          "doc_id": "text03",
+          "domain": "financial_contracts",
+          "page": 208,
+          "page_type": "content",
+          "title": "4. 9 乙方应当在债券存续期内持续督促甲方还本付息、履行信息披露及有",
+          "hierarchy": {
+            "heading": "重大事项提示",
+            "chapter": "第七章 附则",
+            "article": "第四条 乙方的职责、权利和义务",
+            "subitem": "4. 9 乙方应当在债券存续期内持续督促甲方还本付息、履行信息披露及有"
+          },
+          "keywords": [
+            "重大事项提示",
+            "第七章 附则",
+            "第四条 乙方的职责、权利和义务",
+            "4. 9 乙方应当在债券存续期内持续督促甲方还本付息、履行信息披露及有"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_contracts/text03.pdf",
+          "processed_path": "processed_data/group_a/financial_contracts/documents/text03.json",
+          "original_text": "4.9 乙方应当在债券存续期内持续督促甲方还本付息、履行信息披露及有 关承诺的义务。对影响偿债能力和投资者权益的重大事项，乙方应当督促甲方 及时、公平地履行信息披露义务，督导甲方提升信息披露质量，有效维护债券 持有人利益。乙方应当关注甲方的信息披露情况，收集、保存与本期债券偿付 相关的所有信息资料，根据所获信息判断对本期债券本息偿付的影响，并按照 本协议的约定报告债券持有人。"
+        }
+      },
+      {
+        "doc_id": "text03",
+        "chunk_id": "text03:p172:s3:c0",
+        "domain": "financial_contracts",
+        "text": "（五）严格履行信息披露义务 本公司将遵循真实、准确、完整的信息披露原则，使公司偿债能力、募集 资金使用等情况受到债券持有人和债券受托管理人的监督，防范偿债风险。发 行人将按《债券受托管理协议》及中国证监会的有关规定进行重大事项信息披 露。",
+        "score": 120.266186,
+        "source": "bm25",
+        "query_source": "question",
+        "option": null,
+        "matched_terms": [
+          "发行人",
+          "义务"
+        ],
+        "metadata": {
+          "chunk_id": "text03:p172:s3:c0",
+          "doc_id": "text03",
+          "domain": "financial_contracts",
+          "page": 172,
+          "page_type": "content",
+          "title": "（五） 严格履行信息披露义务",
+          "hierarchy": {
+            "heading": "重大事项提示",
+            "section": "第十节 投资者保护机制",
+            "part": "一、 偿债计划和保障措施",
+            "item": "（五） 严格履行信息披露义务"
+          },
+          "keywords": [
+            "重大事项提示",
+            "第十节 投资者保护机制",
+            "一、 偿债计划和保障措施",
+            "（五） 严格履行信息披露义务"
+          ],
+          "source_path": "public_dataset_upload/raw/financial_contracts/text03.pdf",
+          "processed_path": "processed_data/group_a/financial_contracts/documents/text03.json",
+          "original_text": "（五）严格履行信息披露义务 本公司将遵循真实、准确、完整的信息披露原则，使公司偿债能力、募集 资金使用等情况受到债券持有人和债券受托管理人的监督，防范偿债风险。发 行人将按《债券受托管理协议》及中国证监会的有关规定进行重大事项信息披 露。"
+        }
+      }
+    ]
+  }
+}
