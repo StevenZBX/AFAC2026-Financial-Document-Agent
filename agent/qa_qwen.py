@@ -68,8 +68,8 @@ class QAAgent:
         """
         Function for building the log folder
         Logic:
-            each domain will be one folder,
-            more precise time will be a sub folder and stroe the 20 questions 
+            each conversation will be grouped together first,
+            then logs are separated by domain and run batch
         """
         question = record.get("question")
         domain = record.get("domain") or self._get_nested(question, "domain") or "unknown"
@@ -83,8 +83,8 @@ class QAAgent:
         safe_qid = self._safe_filename(qid)
         folder = (
             self.trace_dir
+            / f"{run_date_part}-{run_time_part}-Conversation"
             / f"{run_date_part}-{safe_domain}"
-            / f"{run_date_part}_{run_time_part}"
         )
         filename = f"{answer_time_part}_{safe_qid}_tokens-{total_tokens}.json"
         return folder / filename
