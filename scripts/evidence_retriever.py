@@ -56,9 +56,9 @@ class EvidenceRetriever:
     def retrieve(
         self,
         question: dict,
-        top_k: int = 8,
-        bm25_k: int = 30,
-        candidate_doc_k: int = 8,
+        top_k: int = 15,
+        bm25_k: int = 50,
+        candidate_doc_k: int = 12,
     ) -> dict:
         domain = question.get("domain")
         doc_ids = self._candidate_doc_ids(question, candidate_doc_k)
@@ -108,7 +108,7 @@ class EvidenceRetriever:
     def _search_query(
         self,
         query: str,
-  question: dict,
+        question: dict,
         doc_ids: Optional[Iterable[str]],
         domain: Optional[str],
         top_k: int,
@@ -222,7 +222,7 @@ def generate_evidence(
     chunks_path: str | Path,
     question_paths: Sequence[str | Path],
     output_path: str | Path,
-    top_k: int = 8,
+    top_k: int = 15,
 ) -> List[dict]:
     retriever = EvidenceRetriever.from_chunks_json(chunks_path)
     results: List[dict] = []
@@ -251,7 +251,7 @@ def main() -> None:
         help="Question JSON files",
     )
     parser.add_argument("--output", default="retriever/evidence.json")
-    parser.add_argument("--top-k", type=int, default=8)
+    parser.add_argument("--top-k", type=int, default=15)
     parser.add_argument("--chunk-max-chars", type=int, default=1400)
     args = parser.parse_args()
 
