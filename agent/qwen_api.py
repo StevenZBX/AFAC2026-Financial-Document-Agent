@@ -91,7 +91,6 @@ class QwenClient:
             "messages": messages,
             "result_format": "message",
             "enable_thinking": self.enable_thinking,
-            "max_tokens": 8000
         }
 
         response = Generation.call(

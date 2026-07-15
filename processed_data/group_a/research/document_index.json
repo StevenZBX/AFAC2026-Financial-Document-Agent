@@ -2,181 +2,201 @@
   "pack2_text01": {
     "doc_id": "pack2_text01",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text01.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text01.json",
-    "page_count": 26,
-    "char_count": 30280,
-    "source_type": "pdf"
+    "title": "以海外银保为鉴，观我国寿险发展新格局",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text01.md",
+    "source_relative_path": "pack2_text01.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text01.json",
+    "chunk_count": 24,
+    "char_count": 23105
   },
   "pack2_text02": {
     "doc_id": "pack2_text02",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text02.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text02.json",
-    "page_count": 37,
-    "char_count": 16408,
-    "source_type": "pdf"
+    "title": "金融网络安全运营数智化建设研究与实践",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text02.md",
+    "source_relative_path": "pack2_text02.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text02.json",
+    "chunk_count": 17,
+    "char_count": 14815
   },
   "pack2_text03": {
     "doc_id": "pack2_text03",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text03.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text03.json",
-    "page_count": 36,
-    "char_count": 44228,
-    "source_type": "pdf"
+    "title": "证券研究报告",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text03.md",
+    "source_relative_path": "pack2_text03.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text03.json",
+    "chunk_count": 27,
+    "char_count": 33243
   },
   "pack2_text04": {
     "doc_id": "pack2_text04",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text04.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text04.json",
-    "page_count": 106,
-    "char_count": 87096,
-    "source_type": "pdf"
+    "title": "动储产销两旺，量利双升，继续强推-- 电动车行业策略",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text04.md",
+    "source_relative_path": "pack2_text04.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text04.json",
+    "chunk_count": 76,
+    "char_count": 89241
   },
   "pack2_text05": {
     "doc_id": "pack2_text05",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text05.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text05.json",
-    "page_count": 34,
-    "char_count": 32392,
-    "source_type": "pdf"
+    "title": "品牌转型，玉汝于成",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text05.md",
+    "source_relative_path": "pack2_text05.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text05.json",
+    "chunk_count": 29,
+    "char_count": 28019
   },
   "pack2_text06": {
     "doc_id": "pack2_text06",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text06.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text06.json",
-    "page_count": 41,
-    "char_count": 9483,
-    "source_type": "pdf"
+    "title": "大化工周报：美伊谈判推进，油价下降带动化工品价格整体回落",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text06.md",
+    "source_relative_path": "pack2_text06.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text06.json",
+    "chunk_count": 8,
+    "char_count": 6775
   },
   "pack2_text07": {
     "doc_id": "pack2_text07",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text07.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text07.json",
-    "page_count": 59,
-    "char_count": 31761,
-    "source_type": "pdf"
+    "title": "【中泰汽车·北京车展前瞻】自主&新势力高阶智驾与自研芯片并进合资中国方案主导智电转型",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text07.md",
+    "source_relative_path": "pack2_text07.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text07.json",
+    "chunk_count": 28,
+    "char_count": 26895
   },
   "pack2_text08": {
     "doc_id": "pack2_text08",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text08.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text08.json",
-    "page_count": 37,
-    "char_count": 17040,
-    "source_type": "pdf"
+    "title": "杠杆资金&股票型ETF分化加剧 流动性&交易拥挤度&投资者温度计周报",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text08.md",
+    "source_relative_path": "pack2_text08.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text08.json",
+    "chunk_count": 8,
+    "char_count": 7454
   },
   "pack2_text09": {
     "doc_id": "pack2_text09",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text09.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text09.json",
-    "page_count": 37,
-    "char_count": 40829,
-    "source_type": "pdf"
+    "title": "AI ASIC 领军者，迎接 ASIC 定制新纪元",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text09.md",
+    "source_relative_path": "pack2_text09.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text09.json",
+    "chunk_count": 33,
+    "char_count": 36705
   },
   "pack2_text10": {
     "doc_id": "pack2_text10",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text10.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text10.json",
-    "page_count": 33,
-    "char_count": 36940,
-    "source_type": "pdf"
+    "title": "ROE提升有道（一）——扩表：券商加杠杆路径探析",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text10.md",
+    "source_relative_path": "pack2_text10.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text10.json",
+    "chunk_count": 26,
+    "char_count": 28941
   },
   "pack2_text11": {
     "doc_id": "pack2_text11",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text11.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text11.json",
-    "page_count": 35,
-    "char_count": 35351,
-    "source_type": "pdf"
+    "title": "光模块行业延续高景气度，光纤产品量价齐升",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text11.md",
+    "source_relative_path": "pack2_text11.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text11.json",
+    "chunk_count": 25,
+    "char_count": 25370
   },
   "pack2_text12": {
     "doc_id": "pack2_text12",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text12.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text12.json",
-    "page_count": 25,
-    "char_count": 23956,
-    "source_type": "pdf"
+    "title": "机械行业研究",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text12.md",
+    "source_relative_path": "pack2_text12.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text12.json",
+    "chunk_count": 20,
+    "char_count": 18195
   },
   "pack2_text13": {
     "doc_id": "pack2_text13",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text13.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text13.json",
-    "page_count": 20,
-    "char_count": 15962,
-    "source_type": "pdf"
+    "title": "农林牧渔",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text13.md",
+    "source_relative_path": "pack2_text13.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text13.json",
+    "chunk_count": 11,
+    "char_count": 10402
   },
   "pack2_text14": {
     "doc_id": "pack2_text14",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text14.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text14.json",
-    "page_count": 55,
-    "char_count": 30200,
-    "source_type": "pdf"
+    "title": "“资产荒”的新叙事2025年财报里的金融机构配置线索",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text14.md",
+    "source_relative_path": "pack2_text14.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text14.json",
+    "chunk_count": 19,
+    "char_count": 20623
   },
   "pack2_text15": {
     "doc_id": "pack2_text15",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text15.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text15.json",
-    "page_count": 43,
-    "char_count": 53344,
-    "source_type": "pdf"
+    "title": "改革红利兑现，增量价值开启新一轮资负共振",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text15.md",
+    "source_relative_path": "pack2_text15.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text15.json",
+    "chunk_count": 37,
+    "char_count": 37080
   },
   "pack2_text16": {
     "doc_id": "pack2_text16",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text16.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text16.json",
-    "page_count": 21,
-    "char_count": 22276,
-    "source_type": "pdf"
+    "title": "相关报告",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text16.md",
+    "source_relative_path": "pack2_text16.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text16.json",
+    "chunk_count": 16,
+    "char_count": 16969
   },
   "pack2_text17": {
     "doc_id": "pack2_text17",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text17.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text17.json",
-    "page_count": 20,
-    "char_count": 17668,
-    "source_type": "pdf"
+    "title": "非银金融行业深度报告",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text17.md",
+    "source_relative_path": "pack2_text17.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text17.json",
+    "chunk_count": 15,
+    "char_count": 14951
   },
   "pack2_text18": {
     "doc_id": "pack2_text18",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text18.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text18.json",
-    "page_count": 32,
-    "char_count": 28087,
-    "source_type": "pdf"
+    "title": "大族激光（002008.SZ）",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text18.md",
+    "source_relative_path": "pack2_text18.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text18.json",
+    "chunk_count": 27,
+    "char_count": 27857
   },
   "pack2_text19": {
     "doc_id": "pack2_text19",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text19.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text19.json",
-    "page_count": 23,
-    "char_count": 23315,
-    "source_type": "pdf"
+    "title": "RFID传统主业守正创新，TOC 消费物联网开新局",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text19.md",
+    "source_relative_path": "pack2_text19.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text19.json",
+    "chunk_count": 19,
+    "char_count": 16953
   },
   "pack2_text20": {
     "doc_id": "pack2_text20",
     "domain": "research",
-    "source_path": "public_dataset_upload\\raw\\research\\pack2_text20.pdf",
-    "output_path": "processed_data\\group_a\\research\\documents\\pack2_text20.json",
-    "page_count": 55,
-    "char_count": 30200,
-    "source_type": "pdf"
+    "title": "“资产荒”的新叙事2025年财报里的金融机构配置线索",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/research/pack2_text20.md",
+    "source_relative_path": "pack2_text20.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/research/documents/pack2_text20.json",
+    "chunk_count": 17,
+    "char_count": 19323
   }
 }

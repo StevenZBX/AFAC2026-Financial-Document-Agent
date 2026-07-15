@@ -1,0 +1,1362 @@
+{
+  "attachments_csrc_0001_att1": {
+    "doc_id": "attachments_csrc_0001_att1",
+    "domain": "regulatory",
+    "title": "私募投资基金信息披露监督管理办法",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0001_att1.md",
+    "source_relative_path": "attachments/csrc_0001_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0001_att1.json",
+    "chunk_count": 8,
+    "char_count": 7483
+  },
+  "attachments_csrc_0001_att2": {
+    "doc_id": "attachments_csrc_0001_att2",
+    "domain": "regulatory",
+    "title": "《私募投资基金信息披露监督管理办法》立法说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0001_att2.md",
+    "source_relative_path": "attachments/csrc_0001_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0001_att2.json",
+    "chunk_count": 3,
+    "char_count": 2147
+  },
+  "attachments_csrc_0002_att1": {
+    "doc_id": "attachments_csrc_0002_att1",
+    "domain": "regulatory",
+    "title": "关于修改《证券期货行政执法当事人承诺制度实施规定》的决定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0002_att1.md",
+    "source_relative_path": "attachments/csrc_0002_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0002_att1.json",
+    "chunk_count": 6,
+    "char_count": 6606
+  },
+  "attachments_csrc_0002_att2": {
+    "doc_id": "attachments_csrc_0002_att2",
+    "domain": "regulatory",
+    "title": "《关于修改〈证券期货行政执法当事人承诺制度实施规定〉的决定》立法说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0002_att2.md",
+    "source_relative_path": "attachments/csrc_0002_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0002_att2.json",
+    "chunk_count": 1,
+    "char_count": 1331
+  },
+  "attachments_csrc_0003_att1": {
+    "doc_id": "attachments_csrc_0003_att1",
+    "domain": "regulatory",
+    "title": "证券期货市场监督管理措施实施办法",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0003_att1.md",
+    "source_relative_path": "attachments/csrc_0003_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0003_att1.json",
+    "chunk_count": 3,
+    "char_count": 3709
+  },
+  "attachments_csrc_0003_att2": {
+    "doc_id": "attachments_csrc_0003_att2",
+    "domain": "regulatory",
+    "title": "关于《证券期货市场监督管理措施实施办法》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0003_att2.md",
+    "source_relative_path": "attachments/csrc_0003_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0003_att2.json",
+    "chunk_count": 3,
+    "char_count": 3095
+  },
+  "attachments_csrc_0004_att1": {
+    "doc_id": "attachments_csrc_0004_att1",
+    "domain": "regulatory",
+    "title": "金融基础设施监督管理办法",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0004_att1.md",
+    "source_relative_path": "attachments/csrc_0004_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0004_att1.json",
+    "chunk_count": 7,
+    "char_count": 6944
+  },
+  "attachments_csrc_0005_att1": {
+    "doc_id": "attachments_csrc_0005_att1",
+    "domain": "regulatory",
+    "title": "关于修改《上市公司重大资产重组管理办法》的决定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0005_att1.md",
+    "source_relative_path": "attachments/csrc_0005_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0005_att1.json",
+    "chunk_count": 20,
+    "char_count": 23105
+  },
+  "attachments_csrc_0005_att2": {
+    "doc_id": "attachments_csrc_0005_att2",
+    "domain": "regulatory",
+    "title": "关于《关于修改 的决定》的立法说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0005_att2.md",
+    "source_relative_path": "attachments/csrc_0005_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0005_att2.json",
+    "chunk_count": 3,
+    "char_count": 2363
+  },
+  "attachments_csrc_0006_att1": {
+    "doc_id": "attachments_csrc_0006_att1",
+    "domain": "regulatory",
+    "title": "中国证监会派出机构监管职责规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0006_att1.md",
+    "source_relative_path": "attachments/csrc_0006_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0006_att1.json",
+    "chunk_count": 9,
+    "char_count": 8484
+  },
+  "attachments_csrc_0006_att2": {
+    "doc_id": "attachments_csrc_0006_att2",
+    "domain": "regulatory",
+    "title": "关于《中国证监会派出机构监管职责规定》的修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0006_att2.md",
+    "source_relative_path": "attachments/csrc_0006_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0006_att2.json",
+    "chunk_count": 1,
+    "char_count": 1350
+  },
+  "attachments_csrc_0007_att1": {
+    "doc_id": "attachments_csrc_0007_att1",
+    "domain": "regulatory",
+    "title": "关于修改《证券发行与承销管理办法》的决定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0007_att1.md",
+    "source_relative_path": "attachments/csrc_0007_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0007_att1.json",
+    "chunk_count": 13,
+    "char_count": 13284
+  },
+  "attachments_csrc_0007_att2": {
+    "doc_id": "attachments_csrc_0007_att2",
+    "domain": "regulatory",
+    "title": "《关于修改 的决定》的立法说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0007_att2.md",
+    "source_relative_path": "attachments/csrc_0007_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0007_att2.json",
+    "chunk_count": 2,
+    "char_count": 1369
+  },
+  "attachments_csrc_0008_att1": {
+    "doc_id": "attachments_csrc_0008_att1",
+    "domain": "regulatory",
+    "title": "关于修改部分证券期货规章的决定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0008_att1.md",
+    "source_relative_path": "attachments/csrc_0008_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0008_att1.json",
+    "chunk_count": 188,
+    "char_count": 205348
+  },
+  "attachments_csrc_0008_att2": {
+    "doc_id": "attachments_csrc_0008_att2",
+    "domain": "regulatory",
+    "title": "《关于修改部分证券期货规章的决定》立法说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0008_att2.md",
+    "source_relative_path": "attachments/csrc_0008_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0008_att2.json",
+    "chunk_count": 1,
+    "char_count": 985
+  },
+  "attachments_csrc_0009_att1": {
+    "doc_id": "attachments_csrc_0009_att1",
+    "domain": "regulatory",
+    "title": "上市公司信息披露管理办法",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0009_att1.md",
+    "source_relative_path": "attachments/csrc_0009_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0009_att1.json",
+    "chunk_count": 11,
+    "char_count": 12052
+  },
+  "attachments_csrc_0009_att2": {
+    "doc_id": "attachments_csrc_0009_att2",
+    "domain": "regulatory",
+    "title": "《上市公司信息披露管理办法》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0009_att2.md",
+    "source_relative_path": "attachments/csrc_0009_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0009_att2.json",
+    "chunk_count": 3,
+    "char_count": 2163
+  },
+  "attachments_csrc_0010_att1": {
+    "doc_id": "attachments_csrc_0010_att1",
+    "domain": "regulatory",
+    "title": "中国证监会行政处罚裁量基本规则",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0010_att1.md",
+    "source_relative_path": "attachments/csrc_0010_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0010_att1.json",
+    "chunk_count": 3,
+    "char_count": 3727
+  },
+  "attachments_csrc_0010_att2": {
+    "doc_id": "attachments_csrc_0010_att2",
+    "domain": "regulatory",
+    "title": "《中国证监会行政处罚裁量基本规则》立法说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0010_att2.md",
+    "source_relative_path": "attachments/csrc_0010_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0010_att2.json",
+    "chunk_count": 3,
+    "char_count": 2664
+  },
+  "attachments_csrc_0011_att1": {
+    "doc_id": "attachments_csrc_0011_att1",
+    "domain": "regulatory",
+    "title": "上市公司股东减持股份管理暂行办法",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0011_att1.md",
+    "source_relative_path": "attachments/csrc_0011_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0011_att1.json",
+    "chunk_count": 4,
+    "char_count": 4822
+  },
+  "attachments_csrc_0011_att2": {
+    "doc_id": "attachments_csrc_0011_att2",
+    "domain": "regulatory",
+    "title": "《上市公司股东减持股份管理暂行办法》立法说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0011_att2.md",
+    "source_relative_path": "attachments/csrc_0011_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0011_att2.json",
+    "chunk_count": 3,
+    "char_count": 2721
+  },
+  "attachments_csrc_0012_att1": {
+    "doc_id": "attachments_csrc_0012_att1",
+    "domain": "regulatory",
+    "title": "关于修改《〈上市公司证券发行注册管理办法〉第九条、第十条、第十一条、第十三条、第四十条、第五十七条、第六十条有关规定的适用意见——证券期货法律适用意见第 18号》的决定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0012_att1.md",
+    "source_relative_path": "attachments/csrc_0012_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0012_att1.json",
+    "chunk_count": 9,
+    "char_count": 7860
+  },
+  "attachments_csrc_0012_att2": {
+    "doc_id": "attachments_csrc_0012_att2",
+    "domain": "regulatory",
+    "title": "一、修改背景",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0012_att2.md",
+    "source_relative_path": "attachments/csrc_0012_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0012_att2.json",
+    "chunk_count": 2,
+    "char_count": 1218
+  },
+  "attachments_csrc_0013_att1": {
+    "doc_id": "attachments_csrc_0013_att1",
+    "domain": "regulatory",
+    "title": "公开募集证券投资基金信息披露内容与格式准则第 2 号—定期报告的内容与格式",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0013_att1.md",
+    "source_relative_path": "attachments/csrc_0013_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0013_att1.json",
+    "chunk_count": 3,
+    "char_count": 4454
+  },
+  "attachments_csrc_0013_att2": {
+    "doc_id": "attachments_csrc_0013_att2",
+    "domain": "regulatory",
+    "title": "《公开募集证券投资基金信息披露内容与格式准则第 2 号—定期报告的内容与格式》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0013_att2.md",
+    "source_relative_path": "attachments/csrc_0013_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0013_att2.json",
+    "chunk_count": 1,
+    "char_count": 528
+  },
+  "attachments_csrc_0014_att1": {
+    "doc_id": "attachments_csrc_0014_att1",
+    "domain": "regulatory",
+    "title": "关于短线交易监管的若干规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0014_att1.md",
+    "source_relative_path": "attachments/csrc_0014_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0014_att1.json",
+    "chunk_count": 2,
+    "char_count": 2161
+  },
+  "attachments_csrc_0014_att2": {
+    "doc_id": "attachments_csrc_0014_att2",
+    "domain": "regulatory",
+    "title": "《关于短线交易监管的若干规定》起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0014_att2.md",
+    "source_relative_path": "attachments/csrc_0014_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0014_att2.json",
+    "chunk_count": 2,
+    "char_count": 1790
+  },
+  "attachments_csrc_0015_att1": {
+    "doc_id": "attachments_csrc_0015_att1",
+    "domain": "regulatory",
+    "title": "关于境内资产境外发行资产支持证券代币的监管指引",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0015_att1.md",
+    "source_relative_path": "attachments/csrc_0015_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0015_att1.json",
+    "chunk_count": 1,
+    "char_count": 1095
+  },
+  "attachments_csrc_0016_att1": {
+    "doc_id": "attachments_csrc_0016_att1",
+    "domain": "regulatory",
+    "title": "公开募集证券投资基金业绩比较基准指引",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0016_att1.md",
+    "source_relative_path": "attachments/csrc_0016_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0016_att1.json",
+    "chunk_count": 5,
+    "char_count": 4324
+  },
+  "attachments_csrc_0016_att2": {
+    "doc_id": "attachments_csrc_0016_att2",
+    "domain": "regulatory",
+    "title": "《公开募集证券投资基金业绩比较基准指引》起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0016_att2.md",
+    "source_relative_path": "attachments/csrc_0016_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0016_att2.json",
+    "chunk_count": 3,
+    "char_count": 2273
+  },
+  "attachments_csrc_0017_att1": {
+    "doc_id": "attachments_csrc_0017_att1",
+    "domain": "regulatory",
+    "title": "中 华 人 民 共 和 国 金 融 行 业 标 准",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0017_att1.md",
+    "source_relative_path": "attachments/csrc_0017_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0017_att1.json",
+    "chunk_count": 16,
+    "char_count": 13048
+  },
+  "attachments_csrc_0017_att2": {
+    "doc_id": "attachments_csrc_0017_att2",
+    "domain": "regulatory",
+    "title": "证券期货业信息系统分类与代码",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0017_att2.md",
+    "source_relative_path": "attachments/csrc_0017_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0017_att2.json",
+    "chunk_count": 33,
+    "char_count": 38594
+  },
+  "attachments_csrc_0018_att1": {
+    "doc_id": "attachments_csrc_0018_att1",
+    "domain": "regulatory",
+    "title": "公开募集证券投资基金销售费用管理规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0018_att1.md",
+    "source_relative_path": "attachments/csrc_0018_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0018_att1.json",
+    "chunk_count": 3,
+    "char_count": 4099
+  },
+  "attachments_csrc_0018_att2": {
+    "doc_id": "attachments_csrc_0018_att2",
+    "domain": "regulatory",
+    "title": "《公开募集证券投资基金销售费用管理规定》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0018_att2.md",
+    "source_relative_path": "attachments/csrc_0018_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0018_att2.json",
+    "chunk_count": 1,
+    "char_count": 396
+  },
+  "attachments_csrc_0019_att1": {
+    "doc_id": "attachments_csrc_0019_att1",
+    "domain": "regulatory",
+    "title": "中国证监会关于推出商业不动产投资信托基金试点的公告",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0019_att1.md",
+    "source_relative_path": "attachments/csrc_0019_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0019_att1.json",
+    "chunk_count": 1,
+    "char_count": 936
+  },
+  "attachments_csrc_0019_att2": {
+    "doc_id": "attachments_csrc_0019_att2",
+    "domain": "regulatory",
+    "title": "《中国证监会关于推出商业不动产投资信托基金试点的公告》起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0019_att2.md",
+    "source_relative_path": "attachments/csrc_0019_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0019_att2.json",
+    "chunk_count": 1,
+    "char_count": 979
+  },
+  "attachments_csrc_0020_att1": {
+    "doc_id": "attachments_csrc_0020_att1",
+    "domain": "regulatory",
+    "title": "证券期货违法行为“吹哨人”奖励工作规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0020_att1.md",
+    "source_relative_path": "attachments/csrc_0020_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0020_att1.json",
+    "chunk_count": 3,
+    "char_count": 3846
+  },
+  "attachments_csrc_0020_att2": {
+    "doc_id": "attachments_csrc_0020_att2",
+    "domain": "regulatory",
+    "title": "《证券期货违法行为“吹哨人”奖励工作规定》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0020_att2.md",
+    "source_relative_path": "attachments/csrc_0020_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0020_att2.json",
+    "chunk_count": 1,
+    "char_count": 2024
+  },
+  "attachments_csrc_0021_att1": {
+    "doc_id": "attachments_csrc_0021_att1",
+    "domain": "regulatory",
+    "title": "证券结算风险基金管理办法",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0021_att1.md",
+    "source_relative_path": "attachments/csrc_0021_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0021_att1.json",
+    "chunk_count": 2,
+    "char_count": 2191
+  },
+  "attachments_csrc_0021_att2": {
+    "doc_id": "attachments_csrc_0021_att2",
+    "domain": "regulatory",
+    "title": "《证券结算风险基金管理办法》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0021_att2.md",
+    "source_relative_path": "attachments/csrc_0021_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0021_att2.json",
+    "chunk_count": 1,
+    "char_count": 1208
+  },
+  "attachments_csrc_0022_att1": {
+    "doc_id": "attachments_csrc_0022_att1",
+    "domain": "regulatory",
+    "title": "关于加强资本市场中小投资者保护的若干意见",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0022_att1.md",
+    "source_relative_path": "attachments/csrc_0022_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0022_att1.json",
+    "chunk_count": 6,
+    "char_count": 3957
+  },
+  "attachments_csrc_0023_att1": {
+    "doc_id": "attachments_csrc_0023_att1",
+    "domain": "regulatory",
+    "title": "上市公司治理准则",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0023_att1.md",
+    "source_relative_path": "attachments/csrc_0023_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0023_att1.json",
+    "chunk_count": 15,
+    "char_count": 11067
+  },
+  "attachments_csrc_0023_att2": {
+    "doc_id": "attachments_csrc_0023_att2",
+    "domain": "regulatory",
+    "title": "《上市公司治理准则》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0023_att2.md",
+    "source_relative_path": "attachments/csrc_0023_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0023_att2.json",
+    "chunk_count": 3,
+    "char_count": 2002
+  },
+  "attachments_csrc_0024_att1": {
+    "doc_id": "attachments_csrc_0024_att1",
+    "domain": "regulatory",
+    "title": "中 华 人 民 共 和 国 金 融 行 业 标 准",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0024_att1.md",
+    "source_relative_path": "attachments/csrc_0024_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0024_att1.json",
+    "chunk_count": 75,
+    "char_count": 90926
+  },
+  "attachments_csrc_0024_att2": {
+    "doc_id": "attachments_csrc_0024_att2",
+    "domain": "regulatory",
+    "title": "证券期货业业务域数据元规范第5 部分：企业资产证券化业务",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0024_att2.md",
+    "source_relative_path": "attachments/csrc_0024_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0024_att2.json",
+    "chunk_count": 42,
+    "char_count": 44352
+  },
+  "attachments_csrc_0024_att3": {
+    "doc_id": "attachments_csrc_0024_att3",
+    "domain": "regulatory",
+    "title": "中 华 人 民 共 和 国 金 融 行 业 标 准",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0024_att3.md",
+    "source_relative_path": "attachments/csrc_0024_att3.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0024_att3.json",
+    "chunk_count": 15,
+    "char_count": 15736
+  },
+  "attachments_csrc_0025_att1": {
+    "doc_id": "attachments_csrc_0025_att1",
+    "domain": "regulatory",
+    "title": "期货公司分类评价规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0025_att1.md",
+    "source_relative_path": "attachments/csrc_0025_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0025_att1.json",
+    "chunk_count": 10,
+    "char_count": 11305
+  },
+  "attachments_csrc_0025_att2": {
+    "doc_id": "attachments_csrc_0025_att2",
+    "domain": "regulatory",
+    "title": "《期货公司分类评价规定》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0025_att2.md",
+    "source_relative_path": "attachments/csrc_0025_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0025_att2.json",
+    "chunk_count": 2,
+    "char_count": 1419
+  },
+  "attachments_csrc_0026_att1": {
+    "doc_id": "attachments_csrc_0026_att1",
+    "domain": "regulatory",
+    "title": "期货公司互联网营销管理暂行规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0026_att1.md",
+    "source_relative_path": "attachments/csrc_0026_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0026_att1.json",
+    "chunk_count": 2,
+    "char_count": 2354
+  },
+  "attachments_csrc_0026_att2": {
+    "doc_id": "attachments_csrc_0026_att2",
+    "domain": "regulatory",
+    "title": "《期货公司互联网营销管理暂行规定》起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0026_att2.md",
+    "source_relative_path": "attachments/csrc_0026_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0026_att2.json",
+    "chunk_count": 2,
+    "char_count": 1367
+  },
+  "attachments_csrc_0027_att1": {
+    "doc_id": "attachments_csrc_0027_att1",
+    "domain": "regulatory",
+    "title": "关于修改《证券公司分类监管规定》的决定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0027_att1.md",
+    "source_relative_path": "attachments/csrc_0027_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0027_att1.json",
+    "chunk_count": 19,
+    "char_count": 20835
+  },
+  "attachments_csrc_0027_att2": {
+    "doc_id": "attachments_csrc_0027_att2",
+    "domain": "regulatory",
+    "title": "关于修改《证券公司分类监管规定》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0027_att2.md",
+    "source_relative_path": "attachments/csrc_0027_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0027_att2.json",
+    "chunk_count": 3,
+    "char_count": 2113
+  },
+  "attachments_csrc_0029_att1": {
+    "doc_id": "attachments_csrc_0029_att1",
+    "domain": "regulatory",
+    "title": "期货市场程序化交易管理规定（试行）",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0029_att1.md",
+    "source_relative_path": "attachments/csrc_0029_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0029_att1.json",
+    "chunk_count": 5,
+    "char_count": 4048
+  },
+  "attachments_csrc_0029_att2": {
+    "doc_id": "attachments_csrc_0029_att2",
+    "domain": "regulatory",
+    "title": "《期货市场程序化交易管理规定（试行）》起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0029_att2.md",
+    "source_relative_path": "attachments/csrc_0029_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0029_att2.json",
+    "chunk_count": 3,
+    "char_count": 2628
+  },
+  "attachments_csrc_0030_att1": {
+    "doc_id": "attachments_csrc_0030_att1",
+    "domain": "regulatory",
+    "title": "上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0030_att1.md",
+    "source_relative_path": "attachments/csrc_0030_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0030_att1.json",
+    "chunk_count": 2,
+    "char_count": 1980
+  },
+  "attachments_csrc_0030_att2": {
+    "doc_id": "attachments_csrc_0030_att2",
+    "domain": "regulatory",
+    "title": "关于《上市公司监管指引第 9 号——上市公司筹划和实施重大资产重组的监管要求》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0030_att2.md",
+    "source_relative_path": "attachments/csrc_0030_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0030_att2.json",
+    "chunk_count": 1,
+    "char_count": 582
+  },
+  "attachments_csrc_0031_att1": {
+    "doc_id": "attachments_csrc_0031_att1",
+    "domain": "regulatory",
+    "title": "上市公司募集资金监管规则",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0031_att1.md",
+    "source_relative_path": "attachments/csrc_0031_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0031_att1.json",
+    "chunk_count": 4,
+    "char_count": 4930
+  },
+  "attachments_csrc_0031_att2": {
+    "doc_id": "attachments_csrc_0031_att2",
+    "domain": "regulatory",
+    "title": "《上市公司募集资金监管规则》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0031_att2.md",
+    "source_relative_path": "attachments/csrc_0031_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0031_att2.json",
+    "chunk_count": 3,
+    "char_count": 2179
+  },
+  "attachments_csrc_0032_att1": {
+    "doc_id": "attachments_csrc_0032_att1",
+    "domain": "regulatory",
+    "title": "证券期货业统计指标标准指引（2025年修订）",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0032_att1.md",
+    "source_relative_path": "attachments/csrc_0032_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0032_att1.json",
+    "chunk_count": 19,
+    "char_count": 61079
+  },
+  "attachments_csrc_0033_att1": {
+    "doc_id": "attachments_csrc_0033_att1",
+    "domain": "regulatory",
+    "title": "上市公司信息披露暂缓与豁免管理规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0033_att1.md",
+    "source_relative_path": "attachments/csrc_0033_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0033_att1.json",
+    "chunk_count": 2,
+    "char_count": 2231
+  },
+  "attachments_csrc_0033_att2": {
+    "doc_id": "attachments_csrc_0033_att2",
+    "domain": "regulatory",
+    "title": "《上市公司信息披露暂缓与豁免管理规定》立法说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0033_att2.md",
+    "source_relative_path": "attachments/csrc_0033_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0033_att2.json",
+    "chunk_count": 3,
+    "char_count": 1499
+  },
+  "attachments_csrc_0034_att1": {
+    "doc_id": "attachments_csrc_0034_att1",
+    "domain": "regulatory",
+    "title": "上市公司股东会规则",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0034_att1.md",
+    "source_relative_path": "attachments/csrc_0034_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0034_att1.json",
+    "chunk_count": 7,
+    "char_count": 7808
+  },
+  "attachments_csrc_0034_att2": {
+    "doc_id": "attachments_csrc_0034_att2",
+    "domain": "regulatory",
+    "title": "《上市公司股东会规则》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0034_att2.md",
+    "source_relative_path": "attachments/csrc_0034_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0034_att2.json",
+    "chunk_count": 1,
+    "char_count": 838
+  },
+  "attachments_csrc_0035_att1": {
+    "doc_id": "attachments_csrc_0035_att1",
+    "domain": "regulatory",
+    "title": "上市公司章程指引",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0035_att1.md",
+    "source_relative_path": "attachments/csrc_0035_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0035_att1.json",
+    "chunk_count": 28,
+    "char_count": 33225
+  },
+  "attachments_csrc_0035_att2": {
+    "doc_id": "attachments_csrc_0035_att2",
+    "domain": "regulatory",
+    "title": "《上市公司章程指引》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0035_att2.md",
+    "source_relative_path": "attachments/csrc_0035_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0035_att2.json",
+    "chunk_count": 2,
+    "char_count": 1199
+  },
+  "attachments_csrc_0036_att1": {
+    "doc_id": "attachments_csrc_0036_att1",
+    "domain": "regulatory",
+    "title": "关于修改、废止部分证券期货规范性文件的决定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0036_att1.md",
+    "source_relative_path": "attachments/csrc_0036_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0036_att1.json",
+    "chunk_count": 1,
+    "char_count": 174
+  },
+  "attachments_csrc_0036_att2": {
+    "doc_id": "attachments_csrc_0036_att2",
+    "domain": "regulatory",
+    "title": "中国证监会决定修改的规范性文件",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0036_att2.md",
+    "source_relative_path": "attachments/csrc_0036_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0036_att2.json",
+    "chunk_count": 404,
+    "char_count": 425397
+  },
+  "attachments_csrc_0036_att3": {
+    "doc_id": "attachments_csrc_0036_att3",
+    "domain": "regulatory",
+    "title": "附件2",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0036_att3.md",
+    "source_relative_path": "attachments/csrc_0036_att3.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0036_att3.json",
+    "chunk_count": 1,
+    "char_count": 136
+  },
+  "attachments_csrc_0036_att4": {
+    "doc_id": "attachments_csrc_0036_att4",
+    "domain": "regulatory",
+    "title": "《关于修改、废止部分证券期货规范性文件的决定》立法说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0036_att4.md",
+    "source_relative_path": "attachments/csrc_0036_att4.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0036_att4.json",
+    "chunk_count": 2,
+    "char_count": 1818
+  },
+  "attachments_csrc_0037_att1": {
+    "doc_id": "attachments_csrc_0037_att1",
+    "domain": "regulatory",
+    "title": "公开发行证券的公司信息披露内容与格式准则第 3 号——半年度报告的内容与格式",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0037_att1.md",
+    "source_relative_path": "attachments/csrc_0037_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0037_att1.json",
+    "chunk_count": 15,
+    "char_count": 16134
+  },
+  "attachments_csrc_0037_att2": {
+    "doc_id": "attachments_csrc_0037_att2",
+    "domain": "regulatory",
+    "title": "《公开发行证券的公司信息披露内容与格式准则第 3 号——半年度报告的内容与格式》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0037_att2.md",
+    "source_relative_path": "attachments/csrc_0037_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0037_att2.json",
+    "chunk_count": 1,
+    "char_count": 1429
+  },
+  "attachments_csrc_0038_att1": {
+    "doc_id": "attachments_csrc_0038_att1",
+    "domain": "regulatory",
+    "title": "公开发行证券的公司信息披露内容与格式准则第 2 号——年度报告的内容与格式",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0038_att1.md",
+    "source_relative_path": "attachments/csrc_0038_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0038_att1.json",
+    "chunk_count": 25,
+    "char_count": 29245
+  },
+  "attachments_csrc_0038_att2": {
+    "doc_id": "attachments_csrc_0038_att2",
+    "domain": "regulatory",
+    "title": "《公开发行证券的公司信息披露内容与格式准则第2号年度报告的内容与格式》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0038_att2.md",
+    "source_relative_path": "attachments/csrc_0038_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0038_att2.json",
+    "chunk_count": 1,
+    "char_count": 2629
+  },
+  "attachments_csrc_0039_att1": {
+    "doc_id": "attachments_csrc_0039_att1",
+    "domain": "regulatory",
+    "title": "上市公司监管指引第 11号——上市公司破产重整相关事项",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0039_att1.md",
+    "source_relative_path": "attachments/csrc_0039_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0039_att1.json",
+    "chunk_count": 2,
+    "char_count": 3053
+  },
+  "attachments_csrc_0039_att2": {
+    "doc_id": "attachments_csrc_0039_att2",
+    "domain": "regulatory",
+    "title": "起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0039_att2.md",
+    "source_relative_path": "attachments/csrc_0039_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0039_att2.json",
+    "chunk_count": 2,
+    "char_count": 2126
+  },
+  "attachments_csrc_0040_att1": {
+    "doc_id": "attachments_csrc_0040_att1",
+    "domain": "regulatory",
+    "title": "证券期货法律适用意见第 19 号——《上市公司收购管理办法》第十三条、第十四条的适用意见",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0040_att1.md",
+    "source_relative_path": "attachments/csrc_0040_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0040_att1.json",
+    "chunk_count": 1,
+    "char_count": 1054
+  },
+  "attachments_csrc_0040_att2": {
+    "doc_id": "attachments_csrc_0040_att2",
+    "domain": "regulatory",
+    "title": "关于《证券期货法律适用意见第 19 号—— 第十三条、第十四条的适用意见》的立法说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0040_att2.md",
+    "source_relative_path": "attachments/csrc_0040_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0040_att2.json",
+    "chunk_count": 2,
+    "char_count": 1563
+  },
+  "attachments_csrc_0041_att1": {
+    "doc_id": "attachments_csrc_0041_att1",
+    "domain": "regulatory",
+    "title": "中 华 人 民 共 和 国 金 融 行 业 标 准",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0041_att1.md",
+    "source_relative_path": "attachments/csrc_0041_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0041_att1.json",
+    "chunk_count": 5,
+    "char_count": 8106
+  },
+  "attachments_csrc_0041_att2": {
+    "doc_id": "attachments_csrc_0041_att2",
+    "domain": "regulatory",
+    "title": "证券期货业信息系统备份能力规范",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0041_att2.md",
+    "source_relative_path": "attachments/csrc_0041_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0041_att2.json",
+    "chunk_count": 7,
+    "char_count": 5092
+  },
+  "attachments_csrc_0041_att3": {
+    "doc_id": "attachments_csrc_0041_att3",
+    "domain": "regulatory",
+    "title": "证券期货业数据模型第5 部分：期货公司逻辑模型",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0041_att3.md",
+    "source_relative_path": "attachments/csrc_0041_att3.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0041_att3.json",
+    "chunk_count": 14,
+    "char_count": 14337
+  },
+  "attachments_csrc_0041_att4": {
+    "doc_id": "attachments_csrc_0041_att4",
+    "domain": "regulatory",
+    "title": "中 华 人 民 共 和 国 金 融 行 业 标 准",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0041_att4.md",
+    "source_relative_path": "attachments/csrc_0041_att4.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0041_att4.json",
+    "chunk_count": 22,
+    "char_count": 22204
+  },
+  "attachments_csrc_0041_att5": {
+    "doc_id": "attachments_csrc_0041_att5",
+    "domain": "regulatory",
+    "title": "区域性股权市场企业、产品和投资者编码规范",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0041_att5.md",
+    "source_relative_path": "attachments/csrc_0041_att5.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0041_att5.json",
+    "chunk_count": 3,
+    "char_count": 4530
+  },
+  "attachments_csrc_0042_att1": {
+    "doc_id": "attachments_csrc_0042_att1",
+    "domain": "regulatory",
+    "title": "香港互认基金管理规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0042_att1.md",
+    "source_relative_path": "attachments/csrc_0042_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0042_att1.json",
+    "chunk_count": 4,
+    "char_count": 3654
+  },
+  "attachments_csrc_0042_att2": {
+    "doc_id": "attachments_csrc_0042_att2",
+    "domain": "regulatory",
+    "title": "《香港互认基金管理暂行规定》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0042_att2.md",
+    "source_relative_path": "attachments/csrc_0042_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0042_att2.json",
+    "chunk_count": 2,
+    "char_count": 736
+  },
+  "attachments_csrc_0043_att1": {
+    "doc_id": "attachments_csrc_0043_att1",
+    "domain": "regulatory",
+    "title": "中 华 人 民 共 和 国 金 融 行 业 标 准",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0043_att1.md",
+    "source_relative_path": "attachments/csrc_0043_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0043_att1.json",
+    "chunk_count": 35,
+    "char_count": 38574
+  },
+  "attachments_csrc_0043_att2": {
+    "doc_id": "attachments_csrc_0043_att2",
+    "domain": "regulatory",
+    "title": "中 华 人 民 共 和 国 金 融 行 业 标 准",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0043_att2.md",
+    "source_relative_path": "attachments/csrc_0043_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0043_att2.json",
+    "chunk_count": 6,
+    "char_count": 8741
+  },
+  "attachments_csrc_0043_att3": {
+    "doc_id": "attachments_csrc_0043_att3",
+    "domain": "regulatory",
+    "title": "中 华 人 民 共 和 国 金 融 行 业 标 准",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0043_att3.md",
+    "source_relative_path": "attachments/csrc_0043_att3.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0043_att3.json",
+    "chunk_count": 107,
+    "char_count": 100412
+  },
+  "attachments_csrc_0043_att4": {
+    "doc_id": "attachments_csrc_0043_att4",
+    "domain": "regulatory",
+    "title": "区域性股权市场跨链认证安全规范",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0043_att4.md",
+    "source_relative_path": "attachments/csrc_0043_att4.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0043_att4.json",
+    "chunk_count": 4,
+    "char_count": 8532
+  },
+  "attachments_csrc_0043_att5": {
+    "doc_id": "attachments_csrc_0043_att5",
+    "domain": "regulatory",
+    "title": "区域性股权市场区块链通用基础设施通讯指南",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0043_att5.md",
+    "source_relative_path": "attachments/csrc_0043_att5.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0043_att5.json",
+    "chunk_count": 9,
+    "char_count": 14538
+  },
+  "attachments_csrc_0045_att1": {
+    "doc_id": "attachments_csrc_0045_att1",
+    "domain": "regulatory",
+    "title": "上市公司监管指引第 10 号——市值管理",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0045_att1.md",
+    "source_relative_path": "attachments/csrc_0045_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0045_att1.json",
+    "chunk_count": 3,
+    "char_count": 3318
+  },
+  "attachments_csrc_0045_att2": {
+    "doc_id": "attachments_csrc_0045_att2",
+    "domain": "regulatory",
+    "title": "起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0045_att2.md",
+    "source_relative_path": "attachments/csrc_0045_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0045_att2.json",
+    "chunk_count": 2,
+    "char_count": 1571
+  },
+  "attachments_csrc_0046_att1": {
+    "doc_id": "attachments_csrc_0046_att1",
+    "domain": "regulatory",
+    "title": "证券公司风险控制指标计算标准规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0046_att1.md",
+    "source_relative_path": "attachments/csrc_0046_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0046_att1.json",
+    "chunk_count": 15,
+    "char_count": 20195
+  },
+  "attachments_csrc_0046_att2": {
+    "doc_id": "attachments_csrc_0046_att2",
+    "domain": "regulatory",
+    "title": "关于修订《证券公司风险控制指标计算标准规定》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0046_att2.md",
+    "source_relative_path": "attachments/csrc_0046_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0046_att2.json",
+    "chunk_count": 3,
+    "char_count": 1857
+  },
+  "attachments_csrc_0047_att1": {
+    "doc_id": "attachments_csrc_0047_att1",
+    "domain": "regulatory",
+    "title": "中 华 人 民 共 和 国 金 融 行 业 标 准",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0047_att1.md",
+    "source_relative_path": "attachments/csrc_0047_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0047_att1.json",
+    "chunk_count": 6,
+    "char_count": 4614
+  },
+  "attachments_csrc_0048_att1": {
+    "doc_id": "attachments_csrc_0048_att1",
+    "domain": "regulatory",
+    "title": "证监会系统离职人员入股拟上市企业监管规定（试行）",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0048_att1.md",
+    "source_relative_path": "attachments/csrc_0048_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0048_att1.json",
+    "chunk_count": 2,
+    "char_count": 2132
+  },
+  "attachments_csrc_0048_att2": {
+    "doc_id": "attachments_csrc_0048_att2",
+    "domain": "regulatory",
+    "title": "关于《证监会系统离职人员入股拟上市企业监管规定（试行）》的起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0048_att2.md",
+    "source_relative_path": "attachments/csrc_0048_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0048_att2.json",
+    "chunk_count": 1,
+    "char_count": 643
+  },
+  "attachments_csrc_0049_att1": {
+    "doc_id": "attachments_csrc_0049_att1",
+    "domain": "regulatory",
+    "title": "公开发行证券的公司信息披露编报规则第 4 号——保险公司信息披露特别规定（2024 年修订）",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0049_att1.md",
+    "source_relative_path": "attachments/csrc_0049_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0049_att1.json",
+    "chunk_count": 3,
+    "char_count": 3007
+  },
+  "attachments_csrc_0049_att2": {
+    "doc_id": "attachments_csrc_0049_att2",
+    "domain": "regulatory",
+    "title": "《公开发行证券的公司信息披露编报规则第 4 号——保险公司信息披露特别规定（2024 年修订）》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0049_att2.md",
+    "source_relative_path": "attachments/csrc_0049_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0049_att2.json",
+    "chunk_count": 1,
+    "char_count": 1587
+  },
+  "attachments_csrc_0050_att1": {
+    "doc_id": "attachments_csrc_0050_att1",
+    "domain": "regulatory",
+    "title": "上市公司董事、监事和高级管理人员所持本公司股份及其变动管理规则",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0050_att1.md",
+    "source_relative_path": "attachments/csrc_0050_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0050_att1.json",
+    "chunk_count": 3,
+    "char_count": 3375
+  },
+  "attachments_csrc_0050_att2": {
+    "doc_id": "attachments_csrc_0050_att2",
+    "domain": "regulatory",
+    "title": "《上市公司董事、监事和高级管理人员所持本公司股份及其变动管理规则》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0050_att2.md",
+    "source_relative_path": "attachments/csrc_0050_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0050_att2.json",
+    "chunk_count": 2,
+    "char_count": 1431
+  },
+  "attachments_csrc_0051_att1": {
+    "doc_id": "attachments_csrc_0051_att1",
+    "domain": "regulatory",
+    "title": "证券市场程序化交易管理规定（试行）",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0051_att1.md",
+    "source_relative_path": "attachments/csrc_0051_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0051_att1.json",
+    "chunk_count": 5,
+    "char_count": 4158
+  },
+  "attachments_csrc_0051_att2": {
+    "doc_id": "attachments_csrc_0051_att2",
+    "domain": "regulatory",
+    "title": "《证券市场程序化交易管理规定（试行）》起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0051_att2.md",
+    "source_relative_path": "attachments/csrc_0051_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0051_att2.json",
+    "chunk_count": 2,
+    "char_count": 2464
+  },
+  "attachments_csrc_0052_att1": {
+    "doc_id": "attachments_csrc_0052_att1",
+    "domain": "regulatory",
+    "title": "关于修订《关于加强上市证券公司监管的规定》的决定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0052_att1.md",
+    "source_relative_path": "attachments/csrc_0052_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0052_att1.json",
+    "chunk_count": 7,
+    "char_count": 8040
+  },
+  "attachments_csrc_0052_att2": {
+    "doc_id": "attachments_csrc_0052_att2",
+    "domain": "regulatory",
+    "title": "关于修订《关于加强上市证券公司监管的规定》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0052_att2.md",
+    "source_relative_path": "attachments/csrc_0052_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0052_att2.json",
+    "chunk_count": 2,
+    "char_count": 2210
+  },
+  "attachments_csrc_0053_att1": {
+    "doc_id": "attachments_csrc_0053_att1",
+    "domain": "regulatory",
+    "title": "关于修改《科创属性评价指引（试行）》的决定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0053_att1.md",
+    "source_relative_path": "attachments/csrc_0053_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0053_att1.json",
+    "chunk_count": 2,
+    "char_count": 1518
+  },
+  "attachments_csrc_0053_att2": {
+    "doc_id": "attachments_csrc_0053_att2",
+    "domain": "regulatory",
+    "title": "关于《关于修改〈科创属性评价指引（试行）〉的决定》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0053_att2.md",
+    "source_relative_path": "attachments/csrc_0053_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0053_att2.json",
+    "chunk_count": 1,
+    "char_count": 855
+  },
+  "attachments_csrc_0054_att1": {
+    "doc_id": "attachments_csrc_0054_att1",
+    "domain": "regulatory",
+    "title": "关于修改《中国证监会随机抽查事项清单》的决定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0054_att1.md",
+    "source_relative_path": "attachments/csrc_0054_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0054_att1.json",
+    "chunk_count": 4,
+    "char_count": 5348
+  },
+  "attachments_csrc_0054_att2": {
+    "doc_id": "attachments_csrc_0054_att2",
+    "domain": "regulatory",
+    "title": "关于修改《中国证监会随机抽查事项清单》的起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0054_att2.md",
+    "source_relative_path": "attachments/csrc_0054_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0054_att2.json",
+    "chunk_count": 1,
+    "char_count": 958
+  },
+  "attachments_csrc_0055_att1": {
+    "doc_id": "attachments_csrc_0055_att1",
+    "domain": "regulatory",
+    "title": "中 华 人 民 共 和 国 金 融 行 业 标 准",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0055_att1.md",
+    "source_relative_path": "attachments/csrc_0055_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0055_att1.json",
+    "chunk_count": 26,
+    "char_count": 21834
+  },
+  "attachments_csrc_0055_att2": {
+    "doc_id": "attachments_csrc_0055_att2",
+    "domain": "regulatory",
+    "title": "证券期货业基础数据元规范第1部分：基础数据元",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0055_att2.md",
+    "source_relative_path": "attachments/csrc_0055_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0055_att2.json",
+    "chunk_count": 35,
+    "char_count": 99395
+  },
+  "attachments_csrc_0055_att3": {
+    "doc_id": "attachments_csrc_0055_att3",
+    "domain": "regulatory",
+    "title": "中 华 人 民 共 和 国 金 融 行 业 标 准",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0055_att3.md",
+    "source_relative_path": "attachments/csrc_0055_att3.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0055_att3.json",
+    "chunk_count": 34,
+    "char_count": 62628
+  },
+  "attachments_csrc_0056_att1": {
+    "doc_id": "attachments_csrc_0056_att1",
+    "domain": "regulatory",
+    "title": "公开募集证券投资基金证券交易费用管理规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0056_att1.md",
+    "source_relative_path": "attachments/csrc_0056_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0056_att1.json",
+    "chunk_count": 3,
+    "char_count": 3126
+  },
+  "attachments_csrc_0056_att2": {
+    "doc_id": "attachments_csrc_0056_att2",
+    "domain": "regulatory",
+    "title": "《公开募集证券投资基金证券交易费用管理规定》起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0056_att2.md",
+    "source_relative_path": "attachments/csrc_0056_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0056_att2.json",
+    "chunk_count": 2,
+    "char_count": 1216
+  },
+  "attachments_csrc_0057_att1": {
+    "doc_id": "attachments_csrc_0057_att1",
+    "domain": "regulatory",
+    "title": "首次公开发行股票并上市辅导监管规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0057_att1.md",
+    "source_relative_path": "attachments/csrc_0057_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0057_att1.json",
+    "chunk_count": 6,
+    "char_count": 5451
+  },
+  "attachments_csrc_0057_att2": {
+    "doc_id": "attachments_csrc_0057_att2",
+    "domain": "regulatory",
+    "title": "《首次公开发行股票并上市辅导监管规定》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0057_att2.md",
+    "source_relative_path": "attachments/csrc_0057_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0057_att2.json",
+    "chunk_count": 1,
+    "char_count": 766
+  },
+  "attachments_csrc_0058_att1": {
+    "doc_id": "attachments_csrc_0058_att1",
+    "domain": "regulatory",
+    "title": "首发企业现场检查规定",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0058_att1.md",
+    "source_relative_path": "attachments/csrc_0058_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0058_att1.json",
+    "chunk_count": 5,
+    "char_count": 4605
+  },
+  "attachments_csrc_0058_att2": {
+    "doc_id": "attachments_csrc_0058_att2",
+    "domain": "regulatory",
+    "title": "《首发企业现场检查规定》修订说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0058_att2.md",
+    "source_relative_path": "attachments/csrc_0058_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0058_att2.json",
+    "chunk_count": 1,
+    "char_count": 1051
+  },
+  "attachments_csrc_0059_att1": {
+    "doc_id": "attachments_csrc_0059_att1",
+    "domain": "regulatory",
+    "title": "监管规则适用指引——债券类第 1 号：公开发行公司债券注册工作规程",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0059_att1.md",
+    "source_relative_path": "attachments/csrc_0059_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0059_att1.json",
+    "chunk_count": 2,
+    "char_count": 2379
+  },
+  "attachments_csrc_0060_att1": {
+    "doc_id": "attachments_csrc_0060_att1",
+    "domain": "regulatory",
+    "title": "监管规则适用指引——评估类第 2 号",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0060_att1.md",
+    "source_relative_path": "attachments/csrc_0060_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0060_att1.json",
+    "chunk_count": 3,
+    "char_count": 4358
+  },
+  "attachments_csrc_0060_att2": {
+    "doc_id": "attachments_csrc_0060_att2",
+    "domain": "regulatory",
+    "title": "关于《监管规则适用指引——评估类第2号》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0060_att2.md",
+    "source_relative_path": "attachments/csrc_0060_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0060_att2.json",
+    "chunk_count": 1,
+    "char_count": 646
+  },
+  "attachments_csrc_0061_att1": {
+    "doc_id": "attachments_csrc_0061_att1",
+    "domain": "regulatory",
+    "title": "监管规则适用指引— 会计类第 5 号",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0061_att1.md",
+    "source_relative_path": "attachments/csrc_0061_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0061_att1.json",
+    "chunk_count": 7,
+    "char_count": 4155
+  },
+  "attachments_csrc_0061_att2": {
+    "doc_id": "attachments_csrc_0061_att2",
+    "domain": "regulatory",
+    "title": "关于《监管规则适用指引— 会计类第 5号》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0061_att2.md",
+    "source_relative_path": "attachments/csrc_0061_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0061_att2.json",
+    "chunk_count": 1,
+    "char_count": 634
+  },
+  "attachments_csrc_0062_att1": {
+    "doc_id": "attachments_csrc_0062_att1",
+    "domain": "regulatory",
+    "title": "关于《监管规则适用指引——机构类第4号》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0062_att1.md",
+    "source_relative_path": "attachments/csrc_0062_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0062_att1.json",
+    "chunk_count": 1,
+    "char_count": 763
+  },
+  "attachments_csrc_0063_att1": {
+    "doc_id": "attachments_csrc_0063_att1",
+    "domain": "regulatory",
+    "title": "关于《监管规则适用指引——法律类第 4号》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0063_att1.md",
+    "source_relative_path": "attachments/csrc_0063_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0063_att1.json",
+    "chunk_count": 1,
+    "char_count": 335
+  },
+  "attachments_csrc_0064_att1": {
+    "doc_id": "attachments_csrc_0064_att1",
+    "domain": "regulatory",
+    "title": "《监管规则适用指引—发行类第 10 号》起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0064_att1.md",
+    "source_relative_path": "attachments/csrc_0064_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0064_att1.json",
+    "chunk_count": 1,
+    "char_count": 458
+  },
+  "attachments_csrc_0065_att1": {
+    "doc_id": "attachments_csrc_0065_att1",
+    "domain": "regulatory",
+    "title": "监管规则适用指引——境外发行上市类第 7号：关于境内企业由境外场外市场转至境外证券交易所实现境外发行上市的监管要求",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0065_att1.md",
+    "source_relative_path": "attachments/csrc_0065_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0065_att1.json",
+    "chunk_count": 1,
+    "char_count": 495
+  },
+  "attachments_csrc_0066_att1": {
+    "doc_id": "attachments_csrc_0066_att1",
+    "domain": "regulatory",
+    "title": "关于《监管规则适用指引——北京证券交易所类第 1号：全国股转系统挂牌公司申请在北京证券交易所发行上市辅导监管指引》的起草说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0066_att1.md",
+    "source_relative_path": "attachments/csrc_0066_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0066_att1.json",
+    "chunk_count": 2,
+    "char_count": 1654
+  },
+  "attachments_csrc_0067_att1": {
+    "doc_id": "attachments_csrc_0067_att1",
+    "domain": "regulatory",
+    "title": "关于《监管规则适用指引—机构类第 3 号》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0067_att1.md",
+    "source_relative_path": "attachments/csrc_0067_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0067_att1.json",
+    "chunk_count": 1,
+    "char_count": 425
+  },
+  "attachments_csrc_0068_att1": {
+    "doc_id": "attachments_csrc_0068_att1",
+    "domain": "regulatory",
+    "title": "监管规则适用指引 会计类第4号",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0068_att1.md",
+    "source_relative_path": "attachments/csrc_0068_att1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0068_att1.json",
+    "chunk_count": 5,
+    "char_count": 3697
+  },
+  "attachments_csrc_0068_att2": {
+    "doc_id": "attachments_csrc_0068_att2",
+    "domain": "regulatory",
+    "title": "关于《监管规则适用指引— —会计类第 4号》的说明",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0068_att2.md",
+    "source_relative_path": "attachments/csrc_0068_att2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/attachments_csrc_0068_att2.json",
+    "chunk_count": 1,
+    "char_count": 694
+  },
+  "txt_strict_v3_008_中国人民银行令_2025_第12号_金融机构客户受益所有人识别管理办法": {
+    "doc_id": "txt_strict_v3_008_中国人民银行令_2025_第12号_金融机构客户受益所有人识别管理办法",
+    "domain": "regulatory",
+    "title": "《金融机构客户",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/txt/strict_v3_008_中国人民银行令〔2025〕第12号（金融机构客户受益所有人识别管理办法）.md",
+    "source_relative_path": "txt/strict_v3_008_中国人民银行令〔2025〕第12号（金融机构客户受益所有人识别管理办法）.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/txt_strict_v3_008_中国人民银行令_2025_第12号_金融机构客户受益所有人识别管理办法.json",
+    "chunk_count": 9,
+    "char_count": 11646
+  },
+  "txt_strict_v3_009_中国人民银行_国家金融监督管理总局_中国证券监督管理委员会令_2025_第11号_金融机构客户尽职调查和客户身份资料及交易记录保存管理办法": {
+    "doc_id": "txt_strict_v3_009_中国人民银行_国家金融监督管理总局_中国证券监督管理委员会令_2025_第11号_金融机构客户尽职调查和客户身份资料及交易记录保存管理办法",
+    "domain": "regulatory",
+    "title": "《金融机构客户尽职调查和客户身份资料及交易记录保存管理办法》已经2025年10月11日中国人民银行2025年第14次行务会议审议通过，并经国家金融监督管理总局、中国证券监督管理委员会同意，现予公布，自2026年1月1日起施行。",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/txt/strict_v3_009_中国人民银行_国家金融监督管理总局_中国证券监督管理委员会令〔2025〕第11号（金融机构客户尽职调查和客户身份资料及交易记录保存管理办法）.md",
+    "source_relative_path": "txt/strict_v3_009_中国人民银行_国家金融监督管理总局_中国证券监督管理委员会令〔2025〕第11号（金融机构客户尽职调查和客户身份资料及交易记录保存管理办法）.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/txt_strict_v3_009_中国人民银行_国家金融监督管理总局_中国证券监督管理委员会令_2025_第11号_金融机构客户尽职调查和客户身份资料及交易记录保存管理办法.json",
+    "chunk_count": 12,
+    "char_count": 15603
+  },
+  "txt_strict_v3_015_中国人民银行令_2025_第3号_中国人民银行业务领域数据安全管理办法": {
+    "doc_id": "txt_strict_v3_015_中国人民银行令_2025_第3号_中国人民银行业务领域数据安全管理办法",
+    "domain": "regulatory",
+    "title": "《中国人民银行业务领域数据安全管理办法》已经2025年4月2日中国人民银行第5次行务会议审议通过，现予发布，自2025年6月30日起施行。",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/txt/strict_v3_015_中国人民银行令〔2025〕第3号（中国人民银行业务领域数据安全管理办法）.md",
+    "source_relative_path": "txt/strict_v3_015_中国人民银行令〔2025〕第3号（中国人民银行业务领域数据安全管理办法）.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/txt_strict_v3_015_中国人民银行令_2025_第3号_中国人民银行业务领域数据安全管理办法.json",
+    "chunk_count": 9,
+    "char_count": 12216
+  },
+  "txt_strict_v3_016_中国人民银行_国家金融监督管理总局令_2025_第2号_银行卡清算机构管理办法": {
+    "doc_id": "txt_strict_v3_016_中国人民银行_国家金融监督管理总局令_2025_第2号_银行卡清算机构管理办法",
+    "domain": "regulatory",
+    "title": "《银行卡清算机构管理办法》已经2025年4月3日中国人民银行2025年第6次行务会议审议通过，并经国家金融监督管理总局同意，现予公布，自2025年11月1日起施行。",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/txt/strict_v3_016_中国人民银行_国家金融监督管理总局令〔2025〕第2号（银行卡清算机构管理办法）.md",
+    "source_relative_path": "txt/strict_v3_016_中国人民银行_国家金融监督管理总局令〔2025〕第2号（银行卡清算机构管理办法）.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/txt_strict_v3_016_中国人民银行_国家金融监督管理总局令_2025_第2号_银行卡清算机构管理办法.json",
+    "chunk_count": 9,
+    "char_count": 12249
+  },
+  "txt_strict_v3_017_中华人民共和国反洗钱法": {
+    "doc_id": "txt_strict_v3_017_中华人民共和国反洗钱法",
+    "domain": "regulatory",
+    "title": "（2006年10月31日第十届全国人民代表大会常务委员会第二十四次会议通过 2024年11月8日第十四届全国人民代表大会常务委员会第十二次会议修订）",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/txt/strict_v3_017_中华人民共和国反洗钱法.md",
+    "source_relative_path": "txt/strict_v3_017_中华人民共和国反洗钱法.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/txt_strict_v3_017_中华人民共和国反洗钱法.json",
+    "chunk_count": 10,
+    "char_count": 12855
+  },
+  "txt_strict_v3_018_中国人民银行令_2024_第4号_非银行支付机构监督管理条例实施细则": {
+    "doc_id": "txt_strict_v3_018_中国人民银行令_2024_第4号_非银行支付机构监督管理条例实施细则",
+    "domain": "regulatory",
+    "title": "中国人民银行令〔2024〕第4号",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/txt/strict_v3_018_中国人民银行令〔2024〕第4号（非银行支付机构监督管理条例实施细则）.md",
+    "source_relative_path": "txt/strict_v3_018_中国人民银行令〔2024〕第4号（非银行支付机构监督管理条例实施细则）.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/regulatory/documents/txt_strict_v3_018_中国人民银行令_2024_第4号_非银行支付机构监督管理条例实施细则.json",
+    "chunk_count": 16,
+    "char_count": 20891
+  }
+}

@@ -2,91 +2,101 @@
   "annual_byd_2024_report": {
     "doc_id": "annual_byd_2024_report",
     "domain": "financial_reports",
-    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_byd_2024_report.PDF",
-    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_byd_2024_report.json",
-    "page_count": 290,
-    "char_count": 276599,
-    "source_type": "pdf"
+    "title": "比亚迪股份有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_reports/annual_byd_2024_report.md",
+    "source_relative_path": "annual_byd_2024_report.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_reports/documents/annual_byd_2024_report.json",
+    "chunk_count": 75,
+    "char_count": 77004
   },
   "annual_byd_2025_report": {
     "doc_id": "annual_byd_2025_report",
     "domain": "financial_reports",
-    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_byd_2025_report.PDF",
-    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_byd_2025_report.json",
-    "page_count": 268,
-    "char_count": 249773,
-    "source_type": "pdf"
+    "title": "比亚迪股份有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_reports/annual_byd_2025_report.md",
+    "source_relative_path": "annual_byd_2025_report.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_reports/documents/annual_byd_2025_report.json",
+    "chunk_count": 183,
+    "char_count": 182820
   },
   "annual_catl_2024_report": {
     "doc_id": "annual_catl_2024_report",
     "domain": "financial_reports",
-    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_catl_2024_report.PDF",
-    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_catl_2024_report.json",
-    "page_count": 229,
-    "char_count": 212715,
-    "source_type": "pdf"
+    "title": "宁德时代新能源科技股份有限公司2024年年度报告",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_reports/annual_catl_2024_report.md",
+    "source_relative_path": "annual_catl_2024_report.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_reports/documents/annual_catl_2024_report.json",
+    "chunk_count": 97,
+    "char_count": 115222
   },
   "annual_catl_2025_report": {
     "doc_id": "annual_catl_2025_report",
     "domain": "financial_reports",
-    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_catl_2025_report.PDF",
-    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_catl_2025_report.json",
-    "page_count": 232,
-    "char_count": 207447,
-    "source_type": "pdf"
+    "title": "宁德时代新能源科技股份有限公司2025年年度报告",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_reports/annual_catl_2025_report.md",
+    "source_relative_path": "annual_catl_2025_report.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_reports/documents/annual_catl_2025_report.json",
+    "chunk_count": 177,
+    "char_count": 199227
   },
   "annual_chinamobile_2025_report": {
     "doc_id": "annual_chinamobile_2025_report",
     "domain": "financial_reports",
-    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_chinamobile_2025_report.PDF",
-    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_chinamobile_2025_report.json",
-    "page_count": 214,
-    "char_count": 154200,
-    "source_type": "pdf"
+    "title": "中国移动有限公司2025年年度报告",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_reports/annual_chinamobile_2025_report.md",
+    "source_relative_path": "annual_chinamobile_2025_report.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_reports/documents/annual_chinamobile_2025_report.json",
+    "chunk_count": 155,
+    "char_count": 146186
   },
   "annual_cmb_2025_report": {
     "doc_id": "annual_cmb_2025_report",
     "domain": "financial_reports",
-    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_cmb_2025_report.PDF",
-    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_cmb_2025_report.json",
-    "page_count": 350,
-    "char_count": 191577,
-    "source_type": "pdf"
+    "title": "重大风险提示",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_reports/annual_cmb_2025_report.md",
+    "source_relative_path": "annual_cmb_2025_report.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_reports/documents/annual_cmb_2025_report.json",
+    "chunk_count": 385,
+    "char_count": 354592
   },
   "annual_cscec_2024_report": {
     "doc_id": "annual_cscec_2024_report",
     "domain": "financial_reports",
-    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_cscec_2024_report.pdf",
-    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_cscec_2024_report.json",
-    "page_count": 392,
-    "char_count": 343432,
-    "source_type": "pdf"
+    "title": "董事长致辞",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_reports/annual_cscec_2024_report.md",
+    "source_relative_path": "annual_cscec_2024_report.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_reports/documents/annual_cscec_2024_report.json",
+    "chunk_count": 322,
+    "char_count": 343155
   },
   "annual_cscec_2025_report": {
     "doc_id": "annual_cscec_2025_report",
     "domain": "financial_reports",
-    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_cscec_2025_report.pdf",
-    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_cscec_2025_report.json",
-    "page_count": 370,
-    "char_count": 321044,
-    "source_type": "pdf"
+    "title": "董事长致辞",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_reports/annual_cscec_2025_report.md",
+    "source_relative_path": "annual_cscec_2025_report.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_reports/documents/annual_cscec_2025_report.json",
+    "chunk_count": 300,
+    "char_count": 321427
   },
   "annual_midea_2024_report": {
     "doc_id": "annual_midea_2024_report",
     "domain": "financial_reports",
-    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_midea_2024_report.PDF",
-    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_midea_2024_report.json",
-    "page_count": 295,
-    "char_count": 269050,
-    "source_type": "pdf"
+    "title": "美的集团股份有限公司2024 年度报告",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_reports/annual_midea_2024_report.md",
+    "source_relative_path": "annual_midea_2024_report.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_reports/documents/annual_midea_2024_report.json",
+    "chunk_count": 259,
+    "char_count": 267345
   },
   "annual_midea_2025_report": {
     "doc_id": "annual_midea_2025_report",
     "domain": "financial_reports",
-    "source_path": "public_dataset_upload\\raw\\financial_reports\\annual_midea_2025_report.PDF",
-    "output_path": "processed_data\\group_a\\financial_reports\\documents\\annual_midea_2025_report.json",
-    "page_count": 276,
-    "char_count": 246434,
-    "source_type": "pdf"
+    "title": "致股东",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_reports/annual_midea_2025_report.md",
+    "source_relative_path": "annual_midea_2025_report.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_reports/documents/annual_midea_2025_report.json",
+    "chunk_count": 240,
+    "char_count": 239971
   }
 }

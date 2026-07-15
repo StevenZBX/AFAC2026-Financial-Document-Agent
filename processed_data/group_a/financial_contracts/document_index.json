@@ -2,127 +2,141 @@
   "text01": {
     "doc_id": "text01",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text01.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text01.json",
-    "page_count": 311,
-    "char_count": 218345,
-    "source_type": "pdf"
+    "title": "广东省广晟控股集团有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text01.md",
+    "source_relative_path": "text01.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text01.json",
+    "chunk_count": 203,
+    "char_count": 222771
   },
   "text02": {
     "doc_id": "text02",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text02.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text02.json",
-    "page_count": 253,
-    "char_count": 193393,
-    "source_type": "pdf"
+    "title": "6 年面向专业投资者公开发行科技公司债券（第一期）募集说明书公司债券（第一期）募集说明书",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text02.md",
+    "source_relative_path": "text02.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text02.json",
+    "chunk_count": 70,
+    "char_count": 74741
   },
   "text03": {
     "doc_id": "text03",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text03.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text03.json",
-    "page_count": 260,
-    "char_count": 203322,
-    "source_type": "pdf"
+    "title": "厦门金圆投资集团有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text03.md",
+    "source_relative_path": "text03.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text03.json",
+    "chunk_count": 186,
+    "char_count": 207340
   },
   "text04": {
     "doc_id": "text04",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text04.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text04.json",
-    "page_count": 495,
-    "char_count": 489814,
-    "source_type": "pdf"
+    "title": "安克创新科技股份有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text04.md",
+    "source_relative_path": "text04.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text04.json",
+    "chunk_count": 100,
+    "char_count": 104263
   },
   "text05": {
     "doc_id": "text05",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text05.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text05.json",
-    "page_count": 386,
-    "char_count": 338077,
-    "source_type": "pdf"
+    "title": "(南京市溧水经济开发区北家路7号)",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text05.md",
+    "source_relative_path": "text05.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text05.json",
+    "chunk_count": 175,
+    "char_count": 182417
   },
   "text06": {
     "doc_id": "text06",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text06.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text06.json",
-    "page_count": 283,
-    "char_count": 261302,
-    "source_type": "pdf"
+    "title": "鼎捷数智股份有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text06.md",
+    "source_relative_path": "text06.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text06.json",
+    "chunk_count": 234,
+    "char_count": 224174
   },
   "text07": {
     "doc_id": "text07",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text07.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text07.json",
-    "page_count": 262,
-    "char_count": 183611,
-    "source_type": "pdf"
+    "title": "海南海峡航运股份有限公司出资组建合资公司重大资产重组报告书（草案）",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text07.md",
+    "source_relative_path": "text07.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text07.json",
+    "chunk_count": 152,
+    "char_count": 173095
   },
   "text08": {
     "doc_id": "text08",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text08.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text08.json",
-    "page_count": 468,
-    "char_count": 373963,
-    "source_type": "pdf"
+    "title": "苏州华亚智能科技股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易报告书（草案）（注册稿）",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text08.md",
+    "source_relative_path": "text08.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text08.json",
+    "chunk_count": 330,
+    "char_count": 364487
   },
   "text09": {
     "doc_id": "text09",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text09.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text09.json",
-    "page_count": 281,
-    "char_count": 251632,
-    "source_type": "pdf"
+    "title": "金达威集团KINGDOMWAY",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text09.md",
+    "source_relative_path": "text09.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text09.json",
+    "chunk_count": 202,
+    "char_count": 191641
   },
   "text10": {
     "doc_id": "text10",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text10.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text10.json",
-    "page_count": 516,
-    "char_count": 391478,
-    "source_type": "pdf"
+    "title": "KEYUAN PHARMA",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text10.md",
+    "source_relative_path": "text10.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text10.json",
+    "chunk_count": 283,
+    "char_count": 329215
   },
   "text11": {
     "doc_id": "text11",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text11.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text11.json",
-    "page_count": 273,
-    "char_count": 252183,
-    "source_type": "pdf"
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text11.md",
+    "source_relative_path": "text11.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text11.json",
+    "chunk_count": 210,
+    "char_count": 203678
   },
   "text12": {
     "doc_id": "text12",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text12.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text12.json",
-    "page_count": 126,
-    "char_count": 99245,
-    "source_type": "pdf"
+    "title": "陕西省国际信托股份有限公司重大资产重组报告书",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text12.md",
+    "source_relative_path": "text12.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text12.json",
+    "chunk_count": 81,
+    "char_count": 91466
   },
   "text13": {
     "doc_id": "text13",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text13.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text13.json",
-    "page_count": 166,
-    "char_count": 81893,
-    "source_type": "pdf"
+    "title": "2026年度中国铁路建设债券",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text13.md",
+    "source_relative_path": "text13.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text13.json",
+    "chunk_count": 82,
+    "char_count": 89919
   },
   "text14": {
     "doc_id": "text14",
     "domain": "financial_contracts",
-    "source_path": "public_dataset_upload\\raw\\financial_contracts\\text14.pdf",
-    "output_path": "processed_data\\group_a\\financial_contracts\\documents\\text14.json",
-    "page_count": 243,
-    "char_count": 191518,
-    "source_type": "pdf"
+    "title": "西部证券股份有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/financial_contracts/text14.md",
+    "source_relative_path": "text14.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/financial_contracts/documents/text14.json",
+    "chunk_count": 146,
+    "char_count": 159109
   }
 }

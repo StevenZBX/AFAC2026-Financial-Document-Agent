@@ -2,145 +2,161 @@
   "1": {
     "doc_id": "1",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\1.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\1.json",
-    "page_count": 21,
-    "char_count": 21482,
-    "source_type": "pdf"
+    "title": "中国平安人寿保险股份有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/1.md",
+    "source_relative_path": "1.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/1.json",
+    "chunk_count": 14,
+    "char_count": 15917
   },
   "10": {
     "doc_id": "10",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\10.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\10.json",
-    "page_count": 14,
-    "char_count": 14671,
-    "source_type": "pdf"
+    "title": "众安在线财产保险股份有限公司特种车商业保险示范条款（2020版）",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/10.md",
+    "source_relative_path": "10.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/10.json",
+    "chunk_count": 12,
+    "char_count": 14454
   },
   "11": {
     "doc_id": "11",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\11.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\11.json",
-    "page_count": 7,
-    "char_count": 6140,
-    "source_type": "pdf"
+    "title": "中国平安财产保险股份有限公司平安产险家庭财产保险（家庭版）（2025 版）条款",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/11.md",
+    "source_relative_path": "11.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/11.json",
+    "chunk_count": 6,
+    "char_count": 6194
   },
   "12": {
     "doc_id": "12",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\12.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\12.json",
-    "page_count": 11,
-    "char_count": 10636,
-    "source_type": "pdf"
+    "title": "众安在线财产保险股份有限公司家庭财产综合保险条款（互联网 2023版）注册号：C00017932112023011615973(众安在线)(备-普通家财险)【2024】(主) 032 号",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/12.md",
+    "source_relative_path": "12.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/12.json",
+    "chunk_count": 11,
+    "char_count": 11219
   },
   "13": {
     "doc_id": "13",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\13.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\13.json",
-    "page_count": 8,
-    "char_count": 7151,
-    "source_type": "pdf"
+    "title": "众安在线财产保险股份有限公司食品安全责任保险条款（互联网2026 版）注册号：C00017930912026030278853",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/13.md",
+    "source_relative_path": "13.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/13.json",
+    "chunk_count": 7,
+    "char_count": 7203
   },
   "14": {
     "doc_id": "14",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\14.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\14.json",
-    "page_count": 7,
-    "char_count": 6852,
-    "source_type": "pdf"
+    "title": "中国平安财产保险股份有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/14.md",
+    "source_relative_path": "14.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/14.json",
+    "chunk_count": 8,
+    "char_count": 6899
   },
   "15": {
     "doc_id": "15",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\15.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\15.json",
-    "page_count": 8,
-    "char_count": 9155,
-    "source_type": "pdf"
+    "title": "中国人寿保险股份有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/15.md",
+    "source_relative_path": "15.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/15.json",
+    "chunk_count": 6,
+    "char_count": 6757
   },
   "16": {
     "doc_id": "16",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\16.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\16.json",
-    "page_count": 13,
-    "char_count": 10609,
-    "source_type": "pdf"
+    "title": "平安养老保险股份有限公司平安富鸿金生（悦享版）养老年金保险（分红型）条款",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/16.md",
+    "source_relative_path": "16.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/16.json",
+    "chunk_count": 8,
+    "char_count": 9952
   },
   "2": {
     "doc_id": "2",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\2.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\2.json",
-    "page_count": 12,
-    "char_count": 13075,
-    "source_type": "pdf"
+    "title": "中国人寿保险股份有限公司国寿增益宝终身寿险（万能型）（2025版）条款",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/2.md",
+    "source_relative_path": "2.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/2.json",
+    "chunk_count": 9,
+    "char_count": 11267
   },
   "3": {
     "doc_id": "3",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\3.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\3.json",
-    "page_count": 17,
-    "char_count": 16007,
-    "source_type": "pdf"
+    "title": "众安在线财产保险股份有限公司个人急性白血病复发医疗保险条款（互联网 2026 版A 款）注册号：C00017932512026031383843",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/3.md",
+    "source_relative_path": "3.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/3.json",
+    "chunk_count": 8,
+    "char_count": 15855
   },
   "4": {
     "doc_id": "4",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\4.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\4.json",
-    "page_count": 33,
-    "char_count": 35957,
-    "source_type": "pdf"
+    "title": "中国平安人寿保险股份有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/4.md",
+    "source_relative_path": "4.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/4.json",
+    "chunk_count": 18,
+    "char_count": 19520
   },
   "5": {
     "doc_id": "5",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\5.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\5.json",
-    "page_count": 45,
-    "char_count": 49972,
-    "source_type": "pdf"
+    "title": "平安 e 生保住院 7.0 医疗保险 A 款条款",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/5.md",
+    "source_relative_path": "5.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/5.json",
+    "chunk_count": 19,
+    "char_count": 20356
   },
   "6": {
     "doc_id": "6",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\6.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\6.json",
-    "page_count": 42,
-    "char_count": 47946,
-    "source_type": "pdf"
+    "title": "太平洋健康保险股份有限公司太保团体百万医疗保险（2022 版）条款",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/6.md",
+    "source_relative_path": "6.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/6.json",
+    "chunk_count": 19,
+    "char_count": 22705
   },
   "7": {
     "doc_id": "7",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\7.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\7.json",
-    "page_count": 8,
-    "char_count": 7154,
-    "source_type": "pdf"
+    "title": "中国平安财产保险股份有限公司",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/7.md",
+    "source_relative_path": "7.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/7.json",
+    "chunk_count": 6,
+    "char_count": 6960
   },
   "8": {
     "doc_id": "8",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\8.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\8.json",
-    "page_count": 39,
-    "char_count": 34556,
-    "source_type": "pdf"
+    "title": "众安在线财产保险股份有限公司营运交通工具团体意外伤害保险条款（互联网版 2025A 款）注册号：C00017932312026010516883",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/8.md",
+    "source_relative_path": "8.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/8.json",
+    "chunk_count": 30,
+    "char_count": 33286
   },
   "9": {
     "doc_id": "9",
     "domain": "insurance",
-    "source_path": "public_dataset_upload\\raw\\insurance\\9.pdf",
-    "output_path": "processed_data\\group_a\\insurance\\documents\\9.json",
-    "page_count": 14,
-    "char_count": 14950,
-    "source_type": "pdf"
+    "title": "中国平安财产保险股份有限公司特种车商业保险示范条款（2020版）",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/insurance/9.md",
+    "source_relative_path": "9.md",
+    "output_path": "/Users/limeixuan/Desktop/public_dataset_upload/markdown_all_processed/output/insurance/documents/9.json",
+    "chunk_count": 11,
+    "char_count": 14446
   }
 }

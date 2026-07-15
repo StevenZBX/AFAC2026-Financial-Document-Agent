@@ -15,7 +15,7 @@ def build_prompt(question: str, options: dict, evidence: str, answer_format: str
 
     # 有证据时用证据，没有证据时直接问
     if evidence:
-        prompt = f"""你是一个金融法规专家，请根据以下证据材料回答问题。
+        prompt = f"""
 
 【证据材料】
 {evidence}
@@ -31,7 +31,7 @@ def build_prompt(question: str, options: dict, evidence: str, answer_format: str
 
 答案："""
     else:
-        prompt = f"""你是一个金融法规专家，请根据你的专业知识回答问题。
+        prompt = f"""
 
 【题目】
 {question}
