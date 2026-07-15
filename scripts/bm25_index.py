@@ -39,7 +39,12 @@ def load_chunks(path: str | Path) -> List[Chunk]:
     path = Path(path)
     with path.open("r", encoding="utf-8") as f:
         payload = json.load(f)
-    rows = payload.get("chunks") or payload.get("data") if isinstance(payload, dict) else payload
+    if isinstance(payload, dict):
+        rows = payload.get("chunks")
+        if rows is None:
+            rows = payload.get("data")
+    else:
+        rows = payload
     if not isinstance(rows, list):
         raise ValueError(f"Unsupported chunks format in {path}")
 
@@ -123,9 +128,37 @@ def build_chunks_from_processed_roots(
         for doc_path in doc_paths:
             with doc_path.open("r", encoding="utf-8") as f:
                 doc = json.load(f)
-            doc_id = str(doc.get("doc_id") or doc_path.stem)
-            domain = str(doc.get("domain") or root.name)
+            metadata = doc.get("metadata") if isinstance(doc.get("metadata"), dict) else {}
+            doc_id = str(doc.get("doc_id") or metadata.get("doc_id") or doc_path.stem)
+            domain = str(doc.get("domain") or metadata.get("domain") or root.name)
             doc_meta = index.get(doc_id, {}) if isinstance(index, dict) else {}
+
+            # Markdown preprocessing emits retrieval-ready chunks directly,
+            # whereas the PDF pipeline emits pages containing segments.
+            for chunk_idx, chunk in enumerate(doc.get("chunks", [])):
+                if not isinstance(chunk, dict):
+                    continue
+                search_text = normalize_text(chunk.get("retrieval_text") or chunk.get("text", ""))
+                if not search_text:
+                    continue
+                row = dict(chunk)
+                row.update(
+                    {
+                        "chunk_id": str(chunk.get("chunk_id") or f"{doc_id}:c{chunk_idx}"),
+                        "doc_id": str(chunk.get("doc_id") or doc_id),
+                        "domain": str(chunk.get("domain") or domain),
+                        "text": search_text,
+                        "original_text": chunk.get("text", ""),
+                        "source_path": (
+                            doc_meta.get("source_path")
+                            or doc_meta.get("source_markdown_path")
+                            or metadata.get("source_markdown_path")
+                        ),
+                        "processed_path": str(doc_path),
+                    }
+                )
+                rows.append(row)
+
             for page_obj in doc.get("pages", []):
                 page = page_obj.get("page")
                 page_type = page_obj.get("page_type")

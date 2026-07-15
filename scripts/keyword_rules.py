@@ -94,6 +94,8 @@ DOMAIN_KEYWORDS: Dict[str, List[str]] = {
         "回售",
         "转股",
         "可转债",
+        "受托管理人",
+        "公司"
     ],
     "financial_reports": [
         "营业收入",
@@ -169,6 +171,22 @@ YEAR_RE = re.compile(r"(?:19|20)\d{2}\s*年?")
 CODE_RE = re.compile(r"[A-Za-z_]+[_-]?\d{2,}|csrc_\d{4}|strict_v\d+_\d+")
 CHINESE_TERM_RE = re.compile(r"[\u4e00-\u9fffA-Za-z0-9%％]{2,}")
 
+STOPWORDS = {
+    "关于",
+    "以下",
+    "下列",
+    "正确",
+    "错误",
+    "的是",
+    "根据",
+    "结合",
+    "假设",
+    "分别",
+    "需要",
+    "应当",
+    "进行",
+    "其中",
+}
 
 @dataclass(frozen=True)
 class QuerySignals:

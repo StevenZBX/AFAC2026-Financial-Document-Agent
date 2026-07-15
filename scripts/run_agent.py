@@ -134,6 +134,19 @@ def run(questions_path, evidence_path: str, output_path: str):
         
         messages = [
             {
+                "role":"system",
+                "content":f"""
+                        你是一个专业的金融文档问答助手。
+
+                        你的任务是根据提供的证据内容回答问题。
+
+                        请遵守以下规则：
+                        1. 只能根据提供的证据内容回答，不要使用证据之外的信息。
+                        2. 所有提供给你的证据都是出自正确的文档，无需关心doc_id的问题
+                        3. 如果证据不充分，最多只能重复推理一轮
+                        """
+            },
+            {
                 "role": "user",
                 "content": prompt,
             }
@@ -179,6 +192,8 @@ if __name__ == "__main__":
             str(ROOT / "public_dataset_upload" / "questions" / "group_a" / "financial_contracts_questions.json"),
             str(ROOT / "public_dataset_upload" / "questions" / "group_a" / "financial_reports_questions.json"),
             str(ROOT / "public_dataset_upload" / "questions" / "group_a" / "insurance_questions.json"),
+            str(ROOT / "public_dataset_upload" / "questions" / "group_a" / "regulatory_questions.json"),
+            str(ROOT / "public_dataset_upload" / "questions" / "group_a" / "research_questions.json")
         ],
         evidence_path=str(ROOT / "processed_data" / "group_a" / "evidence.json"),
         output_path=str(ROOT / "answer.csv")
