@@ -56,9 +56,9 @@ class EvidenceRetriever:
     def retrieve(
         self,
         question: dict,
-        top_k: int = 15,
-        bm25_k: int = 50,
-        candidate_doc_k: int = 12,
+        top_k: int = 8,
+        bm25_k: int = 30,
+        candidate_doc_k: int = 8,
     ) -> dict:
         domain = question.get("domain")
         doc_ids = self._candidate_doc_ids(question, candidate_doc_k)
@@ -260,6 +260,12 @@ def main() -> None:
             args.processed_roots,
             max_chars=args.chunk_max_chars,
         )
+        if not chunks:
+            roots = ", ".join(str(root) for root in args.processed_roots)
+            raise ValueError(
+                "No chunks found in the processed roots. Expected documents/*.json "
+                f"containing either chunks[] or pages[].segments[]: {roots}"
+            )
         write_chunks_json(chunks, args.chunks)
         print(f"wrote {len(chunks)} chunks to {args.chunks}")
 

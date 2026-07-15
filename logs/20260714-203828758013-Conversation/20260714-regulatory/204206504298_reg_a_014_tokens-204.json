@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-07-14T20:42:06.504298+08:00",
+  "messages": [
+    {
+      "role": "system",
+      "content": "\n                        你是一个专业的金融文档问答助手。\n\n                        你的任务是根据提供的证据内容回答问题。\n\n                        请遵守以下规则：\n                        1. 只能根据提供的证据内容回答，不要使用证据之外的信息。\n                        2. 所有提供给你的证据都是出自正确的文档，无需关心doc_id的问题\n                        "
+    },
+    {
+      "role": "user",
+      "content": "\n\n【题目】\n结合上市公司治理准则与章程指引，下列关于股东大会职权及会议规则的描述正确的有哪些？\n\n【选项】\nA. 股东大会有权审议批准董事会的报告\nB. 上市公司应当在股东会召开前披露董事候选人\nC. 公司章程规定的担保事项无需经过股东大会审议批准\nD. 股东大会职权包括审议批准变更募集资金用途事项\n\n【要求】\n只输出所有正确答案的大写字母，按字母顺序，不加空格或逗号，例如：AC\n\n答案："
+    }
+  ],
+  "answer": "AD",
+  "reasoning": "",
+  "usage": {
+    "input_tokens": 203,
+    "output_tokens": 1,
+    "total_tokens": 204,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  },
+  "model": "qwen-plus",
+  "qid": "reg_a_014",
+  "domain": "regulatory",
+  "question": {
+    "qid": "reg_a_014",
+    "domain": "regulatory",
+    "split": "A",
+    "question": "结合上市公司治理准则与章程指引，下列关于股东大会职权及会议规则的描述正确的有哪些？",
+    "options": {
+      "A": "股东大会有权审议批准董事会的报告",
+      "B": "上市公司应当在股东会召开前披露董事候选人",
+      "C": "公司章程规定的担保事项无需经过股东大会审议批准",
+      "D": "股东大会职权包括审议批准变更募集资金用途事项"
+    },
+    "answer_format": "multi",
+    "type": "multi",
+    "doc_ids": [
+      "csrc_0023_att1",
+      "csrc_0035_att1"
+    ]
+  },
+  "evidence": ""
+}

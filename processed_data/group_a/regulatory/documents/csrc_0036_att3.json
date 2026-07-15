@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "doc_id": "csrc_0036_att3",
+    "domain": "regulatory",
+    "title": "附件2",
+    "source_markdown_path": "/Users/limeixuan/Desktop/mineru_otuput/regulatory/attachments/csrc_0036_att3.md",
+    "source_relative_path": "attachments/csrc_0036_att3.md"
+  },
+  "chunk_count": 1,
+  "char_count": 136,
+  "chunks": [
+    {
+      "chunk_id": "regulatory::csrc_0036_att3::chunk_0001",
+      "doc_id": "csrc_0036_att3",
+      "chunk_index": 1,
+      "title_path": [
+        "附件2"
+      ],
+      "section_title": "附件2",
+      "context_before": "",
+      "text": "## 附件2\n## 中国证监会决定废止的规范性文件\n\n一、上市公司监管指引第1 号——上市公司实施重大资产重组后存在未弥补亏损情形的监管要求（2012 年3 月23 日 证监会公告〔2012〕6 号）\n\n二、关于进一步落实上市公司现金分红有关事项的通知（2012年5 月4 日 证监发〔2012〕37号）",
+      "retrieval_text": "文档标题：附件2\n标题路径：附件2\n\n## 附件2\n## 中国证监会决定废止的规范性文件\n\n一、上市公司监管指引第1 号——上市公司实施重大资产重组后存在未弥补亏损情形的监管要求（2012 年3 月23 日 证监会公告〔2012〕6 号）\n\n二、关于进一步落实上市公司现金分红有关事项的通知（2012年5 月4 日 证监发〔2012〕37号）",
+      "line_start": 1,
+      "line_end": 7,
+      "char_count": 136
+    }
+  ]
+}
